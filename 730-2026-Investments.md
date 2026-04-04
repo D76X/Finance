@@ -42,3 +42,11 @@ Even if closed during the year, they must be declared.
 - Investments in Italy: 
 If managed by Italian intermediaries (managed regime), capital gains do not appear 
 in these tables since taxation is handled by the intermediary.
+
+---
+
+# REFERENCES
+
+[Quadro W - Investimenti all’estero e/o attività estere di natura finanziaria - monitoraggio IVIE / IVAFE](https://infoprecompilata.agenziaentrate.gov.it/portale/web/guest/quadro-w)  
+
+[Modello 730 2025, Quadro W per il Monitoraggio Fiscale Studio DMZ Italy](https://www.youtube.com/watch?v=0chql44B1MQ)  

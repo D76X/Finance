@@ -1,0 +1,43 @@
+# COME RIEMPIRE IL QUADRO w DEL 730 se ho ETF?
+
+Il Quadro W del 730/2026 (redditi 2025) si usa per monitorare investimenti esteri 
+e calcolare l'IVAFE (imposta di bollo 0,2%) sugli ETF detenuti tramite broker esteri 
+(es. DEGIRO, Scalable, eToro). 
+
+È necessario inserire: 
+
+- il codice bene 
+- lo Stato estero
+- il valore iniziale/finale  
+- i giorni di possesso
+
+calcolando l'imposta dovuta.
+
+## Punti chiave per la compilazione:
+
+- Quando NON compilarlo: 
+Se utilizzi un broker italiano (es. Directa, Fineco, banca italiana), 
+agisce da sostituto d'imposta e dichiara tutto lui.
+
+- Codici nel Quadro W:
+
+    - Colonna 3 (Codice bene): Usa 1 per attività finanziarie.
+    - Colonna 4 (Codice Stato): Codice paese estero (es. DE per Germania).
+    - Colonna 11-13 (Valore): Indica il valore iniziale (o al 1/1/25) e finale (al 31/12/25) dell'ETF, basato sul prezzo di mercato.
+    
+- IVAFE (Imposta sul Valore delle Attività Finanziarie Estere):
+
+    - L'aliquota è del (0,2%), calcolata in proporzione ai giorni di possesso.
+    - La cifra va calcolata e inserita nella colonna dedicata all'imposta nel quadro W.
+    
+### Procedura passo-passo (730 Precompilato):
+
+1. Accedi al sito Agenzia delle Entrate con SPID/CIE.
+2. Vai alla sezione "Quadro W" (monitoraggio investimenti esteri).
+3. Aggiungi un nuovo rigo per ogni ETF o gruppo di ETF dello stesso Stato.
+4. Inserisci i dati richiesti dai rendiconti del tuo broker (valore al 1° gennaio/acquisto, valore al 31 dicembre/vendita).
+5. Calcola e inserisci l'IVAFE dovuta.
+
+REFERENCES
+
+[Dichiarazione dei tuoi INVESTIMENTI esteri: QUADRO W - QUADRO L Sez.III 730 semplificato #tutorial Alessio Serio - tutorial, guide e burocrazia!](https://www.youtube.com/watch?v=Wgxu4dW1nAs&t=575s)   
