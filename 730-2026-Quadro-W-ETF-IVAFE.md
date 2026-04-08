@@ -1,3 +1,33 @@
+# Come calcolo i Giorni IVAFE nel quadro W?
+
+Per calcolare i giorni IVAFE nel Quadro W (o RW) del modello Redditi/730, devi contare i giorni effettivi di 
+detenzione dell'attività finanziaria estera durante l'anno fiscale (max 365 o 366), rapportando l'imposta del 
+0,2% (2 per mille) a tale periodo.
+
+
+Ecco come procedere:
+
+- Conto giorni: 
+Si contano i giorni di calendario in cui l'attività è stata posseduta.
+
+- Formula Calcolo:
+\(\text{IVAFE}=\frac{\text{Valore\ Attività}\times 0,2\%\times \text{Giorni\ possesso}}{365}\)
+
+- Cointestazione: 
+Se l'attività è cointestata, l'imposta si paga in proporzione alla propria quota di possesso.
+
+- Conti Correnti: 
+Per i C/C si applica l'imposta fissa (attualmente €34,20) rapportata ai giorni di detenzione, 
+solo se la giacenza media supera i 5.000€.
+
+- Quadro W/RW: 
+Il dato va inserito nella colonna relativa ai giorni di detenzione (es. colonna 10 nel modello RW).
+In caso di acquisto o vendita, il calcolo deve considerare solo i giorni di reale possesso nel corso dell'anno.
+
+
+
+---
+
 # Calcolo del valore medio dei giorni di detenzione IVAFE per ETF ?  
 
 L'IVAFE (Imposta sul Valore delle Attività Finanziarie all'Estero) per gli ETF detenuti 
@@ -46,3 +76,6 @@ I dati vanno inseriti nel Quadro RW del Modello Redditi Persone Fisiche, colonna
 Nota: Se si utilizzano broker esteri che non operano come sostituti d'imposta (es. DEGIRO), 
 è necessario calcolare e versare l'IVAFE autonomamente, solitamente tramite il report fiscale 
 fornito dal broker.
+
+
+---
