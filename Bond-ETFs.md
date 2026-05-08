@@ -1,7 +1,4 @@
 
-[Portfolio Rebalancing erklärt! inkl. Rechner | Investieren in Aktien & ETF Finanzfluss](https://www.youtube.com/watch?v=_cFsx9g378Y)  
-
-
 # Bonds ETFs
 
 [The Best 50 Bond Indices for ETFs in 2026](https://www.justetf.com/en/market-overview/the-best-bond-etfs.html)   

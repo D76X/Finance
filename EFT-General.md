@@ -1,8 +1,8 @@
 # Is there a way to know whether the stock market in general is going up or down as a trend?
 
 Yes, investors identify general stock market trends by analyzing broad market indices 
-(like the S&P 500 or DJIA), moving averages, and price structures (higher highs/lows for uptrends, 
-lower highs/lows for downtrends). 
+(like the S&P 500 or DJIA), moving averages, and price structures (higher highs/lows 
+for uptrends, lower highs/lows for downtrends). 
 
 Key tools include 
 
@@ -24,7 +24,7 @@ Monitoring the
 
 shows the overall direction of the market.
 
-- Moving Averages (MA):
+- Moving Averages (MA)
 
 The 50-day and 200-day MAs are used to identify long-term trends. 
 A market trading above its 200-day MA is usually in an uptrend, 
