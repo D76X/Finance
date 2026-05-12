@@ -41,13 +41,16 @@ SMA/EMA data on their technical analysis pages.
 
 ## Best Sources for Index Moving Averages
 
-- Investing.com: 
+- [Investing.com](https://www.investing.com/charts): 
 
 Offers a comprehensive "Technical Summary" table for major indices 
 with multiple timeframes (1-min to 1-month) and various Moving Average types 
 (Simple vs. Exponential).
 
-- Barchart.com: 
+- [Barchart.com](https://www.barchart.com/): 
+
+[Barchart.com Market Indices](https://www.barchart.com/stocks/indices)  
+[Barchart.com Market Indices Moving Averages](https://www.barchart.com/stocks/indices?viewName=movingAverages)   
 
 Provides detailed analysis, including where the index stands relative to its 
 20, 50, and 100-day moving averages.
