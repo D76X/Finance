@@ -15,6 +15,38 @@
 
 [How to use the GOOGLEFINANCE function in Google Sheets](https://www.sheetgo.com/blog/google-sheets-formulas/googlefinance-formula-google-sheets/)  
 
+
+---
+
+## How can I calculate AVERAGES with the function GOOGLEFINANCE?
+
+To calculate an average using the `GOOGLEFINANCE` function, you must nest it 
+inside the standard Google Sheets `AVERAGE` and `INDEX` functions. 
+
+This extracts the specific numerical column of historical data (e.g., closing price) 
+and averages all the values in that array.
+
+### Standard Average Formula
+
+To find the average closing price of a stock over a specific timeframe (e.g., the last 30 days), 
+use this formula:
+
+`=AVERAGE(INDEX(GOOGLEFINANCE("GOOG", "price", TODAY()-30, TODAY(), "DAILY"), 0, 2))`
+
+`GOOGLEFINANCE(...)`: 
+
+Pulls the historical data for the ticker (e.g., "GOOG") from start_date to today.
+
+`INDEX(..., 0, 2)`: 
+
+Isolates the data to remove headers and targets only the second column (which contains the numerical prices).
+
+`AVERAGE(...)`: 
+
+Calculates the mathematical mean of those values.
+
+### Moving Average (e.g., 50-Day or 200-Day)If you need a Simple Moving Average (SMA), you can adjust the timeframe to capture the exact number of days you want to analyze. For a 200-day moving average, you can limit the days fetched:=AVERAGE(INDEX(GOOGLEFINANCE("AAPL", "price", TODAY()-200, TODAY(), "DAILY"), 0, 2))
+
 ---
 
 ## Question: How do I use the GOOGLEFINANCE function to retrieve data for a market indexes?
