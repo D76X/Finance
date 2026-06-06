@@ -15,6 +15,7 @@
 
 [How to use the GOOGLEFINANCE function in Google Sheets](https://www.sheetgo.com/blog/google-sheets-formulas/googlefinance-formula-google-sheets/)  
 
+[QUERY function Runs a Google Visualization API Query Language query across data.](https://support.google.com/docs/answer/3093343?hl=en)  
 
 ---
 
@@ -45,7 +46,57 @@ Isolates the data to remove headers and targets only the second column (which co
 
 Calculates the mathematical mean of those values.
 
-### Moving Average (e.g., 50-Day or 200-Day)If you need a Simple Moving Average (SMA), you can adjust the timeframe to capture the exact number of days you want to analyze. For a 200-day moving average, you can limit the days fetched:=AVERAGE(INDEX(GOOGLEFINANCE("AAPL", "price", TODAY()-200, TODAY(), "DAILY"), 0, 2))
+### Moving Average (e.g., 50-Day or 200-Day)
+
+If you need a Simple Moving Average (SMA), you can adjust the timeframe to capture 
+the exact number of days you want to analyze. 
+
+For a 200-day moving average, you can limit the days fetched:
+
+`=AVERAGE(INDEX(GOOGLEFINANCE("AAPL", "price", TODAY()-200, TODAY(), "DAILY"), 0, 2))`
+
+---
+
+# CALCULATE AVERAGES WITH GOOGLEFINANCE
+
+To calculate historical or moving averages of stocks using GOOGLEFINANCE, 
+nest the function inside a standard `=AVERAGE()` or `=INDEX()` formula. 
+
+This allows you to pull past pricing data and instantly compute the arithmetic mean.
+
+Here are the most effective methods to calculate averages:
+
+1. Single-Cell Moving Average (Simple Approach)
+
+If you want a single cell that calculates the average closing price over a set period 
+(e.g., the last 30 days), use this exact formula:
+
+`=AVERAGE(INDEX(GOOGLEFINANCE("AAPL", "price", TODAY()-30, TODAY(), "DAILY"), 0, 2))`
+
+Replace "AAPL" with your desired ticker symbol and change `TODAY()-30` to the number of days 
+you want to analyze.
+
+2. Multi-Cell List
+
+To create a broader data table (which includes the date and price columns), use:
+
+`=GOOGLEFINANCE("AAPL", "price", TODAY()-30, TODAY(), "DAILY")`
+
+You can then use the standard Google Sheets AVERAGE Function to find the average of 
+the resulting numerical column manually.
+
+3. Calculating Average Trading Volume
+
+To determine a stock's average trading volume over the past 10 days, 
+use a dynamic formula like this:
+
+`=LET(v,INDEX(GOOGLEFINANCE("AAPL", "volume", TODAY()-10, TODAY()),,2),AVERAGE(FILTER(v,ISNUMBER(v))))`
+
+---
+
+[How to Calculate Moving Average in Google Sheets](https://spreadsheetarchitect.substack.com/p/how-to-calculate-moving-average-in)  
+
+
 
 ---
 
@@ -136,9 +187,22 @@ The formula generates a multi-column table (headers, dates, and prices).
 
 - Remove Headers: 
 To strip the headers and keep only the date and price arrays, wrap the formula 
-in a QUERY().
+in a `QUERY()`.
 
 - Data Refresh: 
 The GOOGLEFINANCE function only fetches past dates; it will not display data for the current day.
+
+Example:
+
+[I'm trying get Moving average data from google finance. does this formula work?](https://support.google.com/docs/thread/203402016/i-m-trying-get-moving-average-data-from-google-finance-does-this-formula-work?hl=en)  
+
+```
+=Googlefinance("AAPL","price", Today()-200,200, "Daily")
+
+With that same formula at its heart, this will return the average of those prices
+
+=Query(Googlefinance("AAPL","price", Today()-200,200, "Daily"),"Select Avg(Col2) Where Col2 is not null Label Avg(Col2) ''", 1)
+
+```
 
 ---
