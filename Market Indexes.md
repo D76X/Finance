@@ -15,6 +15,89 @@
 
 [How to use the GOOGLEFINANCE function in Google Sheets](https://www.sheetgo.com/blog/google-sheets-formulas/googlefinance-formula-google-sheets/)  
 
+[QUERY function Runs a Google Visualization API Query Language query across data.](https://support.google.com/docs/answer/3093343?hl=en)  
+
+---
+
+## How can I calculate AVERAGES with the function GOOGLEFINANCE?
+
+To calculate an average using the `GOOGLEFINANCE` function, you must nest it 
+inside the standard Google Sheets `AVERAGE` and `INDEX` functions. 
+
+This extracts the specific numerical column of historical data (e.g., closing price) 
+and averages all the values in that array.
+
+### Standard Average Formula
+
+To find the average closing price of a stock over a specific timeframe (e.g., the last 30 days), 
+use this formula:
+
+`=AVERAGE(INDEX(GOOGLEFINANCE("GOOG", "price", TODAY()-30, TODAY(), "DAILY"), 0, 2))`
+
+`GOOGLEFINANCE(...)`: 
+
+Pulls the historical data for the ticker (e.g., "GOOG") from start_date to today.
+
+`INDEX(..., 0, 2)`: 
+
+Isolates the data to remove headers and targets only the second column (which contains the numerical prices).
+
+`AVERAGE(...)`: 
+
+Calculates the mathematical mean of those values.
+
+### Moving Average (e.g., 50-Day or 200-Day)
+
+If you need a Simple Moving Average (SMA), you can adjust the timeframe to capture 
+the exact number of days you want to analyze. 
+
+For a 200-day moving average, you can limit the days fetched:
+
+`=AVERAGE(INDEX(GOOGLEFINANCE("AAPL", "price", TODAY()-200, TODAY(), "DAILY"), 0, 2))`
+
+---
+
+# CALCULATE AVERAGES WITH GOOGLEFINANCE
+
+To calculate historical or moving averages of stocks using GOOGLEFINANCE, 
+nest the function inside a standard `=AVERAGE()` or `=INDEX()` formula. 
+
+This allows you to pull past pricing data and instantly compute the arithmetic mean.
+
+Here are the most effective methods to calculate averages:
+
+1. Single-Cell Moving Average (Simple Approach)
+
+If you want a single cell that calculates the average closing price over a set period 
+(e.g., the last 30 days), use this exact formula:
+
+`=AVERAGE(INDEX(GOOGLEFINANCE("AAPL", "price", TODAY()-30, TODAY(), "DAILY"), 0, 2))`
+
+Replace "AAPL" with your desired ticker symbol and change `TODAY()-30` to the number of days 
+you want to analyze.
+
+2. Multi-Cell List
+
+To create a broader data table (which includes the date and price columns), use:
+
+`=GOOGLEFINANCE("AAPL", "price", TODAY()-30, TODAY(), "DAILY")`
+
+You can then use the standard Google Sheets AVERAGE Function to find the average of 
+the resulting numerical column manually.
+
+3. Calculating Average Trading Volume
+
+To determine a stock's average trading volume over the past 10 days, 
+use a dynamic formula like this:
+
+`=LET(v,INDEX(GOOGLEFINANCE("AAPL", "volume", TODAY()-10, TODAY()),,2),AVERAGE(FILTER(v,ISNUMBER(v))))`
+
+---
+
+[How to Calculate Moving Average in Google Sheets](https://spreadsheetarchitect.substack.com/p/how-to-calculate-moving-average-in)  
+
+
+
 ---
 
 ## Question: How do I use the GOOGLEFINANCE function to retrieve data for a market indexes?
@@ -104,11 +187,12 @@ The formula generates a multi-column table (headers, dates, and prices).
 
 - Remove Headers: 
 To strip the headers and keep only the date and price arrays, wrap the formula 
-in a QUERY().
+in a `QUERY()`.
 
 - Data Refresh: 
 The GOOGLEFINANCE function only fetches past dates; it will not display data for the current day.
 
+<<<<<<< HEAD
 ---
 
 # What are the most important market index for the European financial sector?
@@ -173,3 +257,115 @@ often vendor-specific such as:
 investors often track this region through ETFs like the 
 
 - iShares Core MSCI Pacific ETF (`NYSEARCA:IPAC`).
+=======
+Example:
+
+[I'm trying get Moving average data from google finance. does this formula work?](https://support.google.com/docs/thread/203402016/i-m-trying-get-moving-average-data-from-google-finance-does-this-formula-work?hl=en)  
+
+```
+=Googlefinance("AAPL","price", Today()-200,200, "Daily")
+
+With that same formula at its heart, this will return the average of those prices
+
+=Query(Googlefinance("AAPL","price", Today()-200,200, "Daily"),"Select Avg(Col2) Where Col2 is not null Label Avg(Col2) ''", 1)
+
+```
+
+---
+
+# Which are the most important moving averages used in finance to monitor market indexes?
+
+In finance, the most critical moving averages for monitoring market indexes (such as the S&P 500 or NASDAQ) are: 
+ 
+
+- 50-day, 
+- 100-day
+- 200-day 
+
+They are typically tracked as either: 
+
+1. `Simple Moving Average (SMA)` 
+2. `Exponential Moving Average (EMA)`.
+
+These averages smooth out short-term market noise to reveal the underlying trend. 
+
+Their importance can be broken down by timeframe and technical utility:
+
+## 1. The Long-Term Trend Indicator: 200-Day Moving Average
+
+### What it does: 
+
+It averages the `closing prices` of the past 200 trading days (roughly 40 weeks).
+
+### Significance: 
+
+This is considered the gold standard for determining the overall health of a market index. 
+
+- Bull Market Indicator: When a market index is trading above its 200-day average, it is generally considered to be in a long-term bull market. 
+
+- Bear Market Indicator: When it falls below, it often signals a bearish trend or long-term structural weakness.
+
+### Support and Resistance: 
+
+It acts as a major psychological floor where institutional investors often step in to buy during dips, 
+providing critical market support.
+
+## 2. The Intermediate Trend Indicator: 50-Day Moving Average
+
+### What it does: 
+
+It measures the average closing price over the last 50 trading days (about 10 weeks or 2.5 months).
+
+### Significance: 
+
+Institutional traders use the 50-day average to monitor intermediate-term momentum. 
+
+It reacts much faster to price changes than the 200-day average, making it the first line of defense 
+during market corrections.
+
+3. The Medium-Term & Support Indicator: 100-Day Moving Average
+
+### What it does: 
+
+It bridges the short and long-term views by averaging the past 100 trading days.
+
+### Significance: 
+
+Often used as a secondary confirmation for trends. 
+
+If a market index pulls back but finds support at its 100-day moving average, it suggests the 
+upward trend remains intact.
+
+4. Short-Term Indicators: 10, 20, and 30-Day Moving Averages
+
+What they do: These averages are highly responsive to immediate price shifts and are favored by 
+swing traders and active market technicians.
+
+### Significance: 
+
+They help track volatile, day-to-day or week-to-week momentum. 
+
+When an index dips below its 20-day average, it typically flags a short-term loss of momentum.
+
+## Important Moving Average Strategies
+
+Market analysts look at how these moving averages interact with one another and the underlying 
+index price:
+
+### The Golden Cross: 
+
+A major bullish signal that occurs when the short-term 50-day moving average crosses above the 
+long-term 200-day moving average.
+
+### The Death Cross: 
+
+A major bearish signal indicating long-term weakness, occurring when the 50-day moving average 
+drops below the 200-day moving average.
+
+### Price Crossovers: 
+
+When an index’s price drops below its 50-day or 200-day average, it is widely viewed as a warning
+signal of an impending market correction or bear market.
+
+---
+>>>>>>> 205476e796fd8ab0845cf0ead2b7621bbd7640be
