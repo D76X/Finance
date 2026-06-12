@@ -194,6 +194,26 @@ The GOOGLEFINANCE function only fetches past dates; it will not display data for
 
 ---
 
+# What are the most important market index for the global TECHNOLOGICAL sector?  
+
+The most important market indices for the global technology sector include the 
+
+- [Nasdaq-100](https://www.google.com/finance/beta/quote/NDX:INDEXNASDAQ)  
+
+- MSCI World Information Technology Index AS
+[Xtrackers MSCI World Information Technology UCITS 1C ETF](https://www.google.com/finance/beta/quote/XDWT:LON)  
+
+- S&P World Information Technology Sector Index
+
+- S&P 500 Information Technology Index 
+
+These benchmarks track the world’s largest, most influential innovation and 
+hardware companies.
+
+1. The Nasdaq-100 Index (NDX)Overview: While not exclusively a tech index—as it includes consumer and service firms—it is the world's most widely recognized tech-heavy index.Focus: Tracks the 100 largest non-financial companies listed on the Nasdaq Stock Market. It is heavily dominated by mega-cap technology and internet giants.Related Benchmark: The exchange also offers the Nasdaq-100 Technology Sector Index (NDXT10), which narrows its focus specifically to ICB-classified technology companies.2. MSCI World Information Technology IndexOverview: A premier international benchmark used by institutional investors to track global technology stocks across developed markets.Focus: Represents companies in software, hardware, semiconductors, and IT consulting.Top Holdings: Dominated by global leaders like NVIDIA, Apple, and Microsoft.3. S&P World Information Technology Sector IndexOverview: Designed by S&P Dow Jones, this index captures the performance of large and mid-cap technology companies globally.Focus: Includes industry subsets such as semiconductors, software, and IT services.Rebalancing: Weighted by float-adjusted market capitalization, ensuring the index accurately reflects the actual investable market weight of the largest global players.4. S&P 500 Information Technology IndexOverview: The primary benchmark for the United States technology sector, representing U.S. companies classified under the GICS (Global Industry Classification Standard) Information Technology sector.Focus: Includes companies like software developers, semiconductor manufacturers, and IT consulting firms.Accessibility: It serves as the underlying index for some of the world's largest exchange-traded funds (ETFs).
+
+---
+
 # What are the most important market index for the global financial sector?  
 
 The most important market indices for the global financial sector include 
@@ -212,7 +232,13 @@ offering the most comprehensive view of global economic health.
 
 [iShares MSCI ACWI ETF](https://www.google.com/finance/beta/quote/ACWI:NASDAQ)  
 
-Covers large and mid-cap stocks across 23 developed and 24 emerging markets, representing approximately 85% of the global investable equity market.FTSE All-World Index: A widely utilized, highly diversified benchmark that covers thousands of companies in both developed and emerging markets.2. Major U.S. BenchmarksBecause U.S. markets represent the largest share of global market capitalization, these indices act as the heartbeat for global financial trends.S&P 500: Often considered the premier gauge of large-cap U.S. equities. It is the foundation for numerous global financial derivatives.Dow Jones Industrial Average (DJIA): One of the oldest and most-quoted indices globally, tracking 30 prominent, blue-chip U.S. companies.Nasdaq Composite: Heavily weighted toward technology and growth companies, tracking all the stocks listed on the Nasdaq exchange.3. European & International HeavyweightsThese indices are crucial for measuring the economic stability of other primary global financial and industrial hubs.STOXX Europe 600: Measures the performance of 600 components spanning 17 European countries.FTSE 100: Tracks the 100 companies with the highest market capitalization on the London Stock Exchange.Nikkei 225: The leading and most widely quoted index for the Japanese stock market.Hang Seng Index: The primary benchmark for the Hong Kong Stock Exchange, serving as the main indicator of the broader Asian and Chinese markets.
+Covers large and mid-cap stocks across 23 developed and 24 emerging markets, 
+representing approximately 85% of the global investable equity market.
+
+- [FTSE All-World Index](https://www.google.com/finance/beta/quote/AW01:INDEXFTSE?hl): 
+
+A widely utilized, highly diversified benchmark that covers thousands 
+of companies in both developed and emerging markets.
 
 ---
 
