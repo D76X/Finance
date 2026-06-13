@@ -213,6 +213,11 @@ Includes companies like software developers, semiconductor manufacturers, and IT
 
 It serves as the underlying index for some of the world's largest exchange-traded funds (ETFs).
 
+
+---
+
+*** Which markets and sectors does this index cover? ***
+
 ---
 
 # What are the most important market index for the European TECHNOLOGICAL sector?  
@@ -226,7 +231,7 @@ are the
 These indices serve as the foundational benchmarks for major European technology ETFs 
 and portfolio strategies.
 
-1. STOXX® Europe 600 Technology
+1. [STOXX® Europe 600 Technology](https://www.google.com/finance/beta/quote/SX8P:INDEXSTOXX)
 
 This index tracks the performance of technology companies selected from the broader 
 pan-European STOXX Europe 600 index. It provides comprehensive coverage of large, mid, and 
@@ -247,6 +252,11 @@ It is typically tracked by funds like the
 View exact composition on the STOXX Europe 600 Technology page.
 
 2. MSCI Europe Information Technology
+AS
+[iShares MSCI Europe Information Technology Sector UCITS EUR (Acc) ETF](https://www.google.com/finance/beta/quote/ESIT:LON)
+
+The iShares MSCI Europe Information Technology Sector UCITS ETF (FRA:ESIT) 
+tracks the MSCI Europe Information Technology 20/35 Capped Index.
 
 Designed specifically for large and mid-cap segments, this index measures the equity market 
 performance of technology companies in developed European markets.
@@ -286,6 +296,18 @@ Caps the largest stock at 30% and the remaining constituents at 15%.
 - MSCI Europe Information Technology 20/35 Capped: 
 
 Caps the largest company at 35% and all others at 20% to diversify sector exposure.
+
+[StSt SPDR MSCI Europe Technology UCITS ETF](https://www.google.com/finance/beta/quote/ITEC:LON)  
+
+The 
+`StSt SPDR MSCI Europe Technology UCITS ETF (EPA:STK)` 
+tracks the 
+`MSCI Europe Information Technology 35/20 Capped` 
+Index.
+
+This index is designed to measure the equity market performance of large and mid-cap companies 
+across developed markets in Europe that are classified within the Information Technology 
+sector according to the Global Industry Classification Standard (GICS).
 
 ---
 
