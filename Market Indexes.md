@@ -218,6 +218,95 @@ Tracks companies across 23 developed markets globally.
 Heavily weighted towards the United States, Japan, and Western Europe, 
 it is the standard benchmark for global industrial.
 
+AS
+
+[Xtrackers MSCI World Industrials UCITS 1C ETF](https://www.google.com/finance/beta/quote/XDWI:LON)
+
+---
+
+[iShares Global Industrials ETF (NYSEARCA:EXI)](https://www.google.com/finance/beta/quote/EXI:NYSEARCA)  
+
+This ETF tracks the `S&P Global 1200 Industrials (Sector)` Capped Index, 
+providing exposure to large-cap companies within the global industrials 
+sector.
+
+## Markets & Sector Coverage
+
+The index focuses on companies involved in:
+
+- Manufacturing & Capital Goods: Construction products, electrical equipment, and machinery.
+
+- Aerospace & Defense: Commercial and military aircraft and defense systems.
+
+- Transportation: Freight, logistics, and airlines.
+
+- Services: Professional services like staffing, security, and facilities management.
+
+## Geographic Exposure
+
+The fund spans major global markets across the Americas, Europe, and Asia-Pacific.
+As of mid-2026, the geographic breakdown is roughly:
+
+Region	Percentage
+
+- North, Central, and South America	~58.5%
+- Europe	~25.6%
+- Asia-Pacific	~15.6%
+
+---
+
+OR
+MSCI World Industrials Index 
+AS:
+
+- [StSt SPDR MSCI World Industrials UCITS ETF](https://www.google.com/finance/beta/quote/WIND:AMS)  
+
+This is an exchange-traded fund designed to track the performance of companies 
+in the industrials sector across developed markets globally.
+The ETF tracks the MSCI World Industrials 35/20 Capped Index, which includes 
+large and mid-cap companies from 23 developed countries classified under 
+the "Industrials" sector (e.g., aerospace, defense, construction, and logistics)
+In this context, "capped" means there is a strict limit on how much of the total 
+fund can be invested in a single company. Specifically, this fund tracks the 
+`MSCI World Industrials 35/20 Capped Index`, which uses a specialized "35/20" 
+capping methodology to ensure diversification.
+
+## How the 35/20 Capping Works
+
+- 35% Cap: 
+
+The largest single company in the index is restricted to a maximum weighting of 35%.
+
+- 20% Cap: 
+
+All other individual companies are restricted to a maximum weighting of 20% each.
+
+- Quarterly Rebalancing: 
+
+The index is reviewed every three months (February, May, August, and November) 
+to ensure no stock has grown so large that it exceeds these limits.
+
+## Why Capping Matters
+
+- Reduces Concentration Risk: 
+
+Without capping, a massive company (like a global aerospace leader) could 
+grow to represent a huge portion of the fund. If that one stock crashed, 
+it would drag the entire ETF down with it.
+
+- Regulatory Compliance (UCITS): 
+
+European UCITS regulations require funds to be diversified. Capping helps 
+the fund stay within legal limits, such as the "10/5/40" rule, which 
+prevents too much capital from being tied up in a few large entities.
+
+- Balanced Sector Exposure: 
+
+It ensures you are getting broad exposure to the entire industrials sector 
+rather than just betting on the two or three biggest firms.
+
+---
+
 2. S&P Global 1200 Industrials: 
 
 Captures a broader swath of the global economy, integrating the biggest industrial companies from the U.S., Europe, Asia, and Latin America.
