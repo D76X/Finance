@@ -307,13 +307,15 @@ rather than just betting on the two or three biggest firms.
 
 ---
 
-2. S&P Global 1200 Industrials: 
+2. [S&P Global 1200 Industrials](https://www.google.com/finance/beta/quote/SPG1200-20:INDEXSP): 
 
 Captures a broader swath of the global economy, integrating the biggest industrial companies from the U.S., Europe, Asia, and Latin America.
 
+---
+
 ## U.S. Heavyweight Benchmarks
 
-3. S&P 500 Industrials Index (Sector):
+3. [S&P 500 Industrials Index (Sector)](https://www.google.com/finance/beta/quote/SP500-20:INDEXSP):
 
 Measures the performance of 60 to 80 major U.S. industrial corporations. 
 It heavily dictates investor sentiment and includes giants like Caterpillar, General Electric, and Boeing.
