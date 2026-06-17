@@ -320,13 +320,18 @@ Captures a broader swath of the global economy, integrating the biggest industri
 Measures the performance of 60 to 80 major U.S. industrial corporations. 
 It heavily dictates investor sentiment and includes giants like Caterpillar, General Electric, and Boeing.
 
-3. Dow Jones Industrial Average (DJIA): 
+3. [Dow Jones Industrial Average (DJIA)](https://www.google.com/finance/beta/quote/.DJI:INDEXDJX) 
 
-While it acts as a general market indicator, it directly includes several industrial icons (like Caterpillar and Boeing). Note that it is a price-weighted rather than a market-cap-weighted index.
+While it acts as a general market indicator, it directly includes several 
+industrial icons (like Caterpillar and Boeing). 
 
-4. S&P 500 Equal Weight Industrials Index: 
+Note that it is a price-weighted rather than a market-cap-weighted index.
 
-Instead of larger companies dominating the performance, this index gives equal importance to every industrial stock in the S&P 500, offering a different view of the sector.
+4. [S&P 500 Equal Weight Industrials Index](https://www.google.com/finance/beta/quote/SP500EW-20:INDEXSP): 
+
+Instead of larger companies dominating the performance, this index gives equal 
+importance to every industrial stock in the S&P 500, offering a different view \
+of the sector.
 
 ## Key Index Composition
 
@@ -342,15 +347,16 @@ How to Track and TradeFor investors and traders looking to mirror or track the p
 
 Tracked by products such as the 
 
-- Xtrackers MSCI World Industrials UCITS ETF 
-- SPDR MSCI World Industrials UCITS ETF
+- [Xtrackers MSCI World Industrials UCITS ETF](https://www.google.com/finance/beta/quote/XDWI:LON)  
+
+- [SPDR MSCI World Industrials UCITS ETF](https://www.google.com/finance/beta/quote/WIND:AMS)  
 
 ## S&P Benchmark: 
 
 Tracked by U.S.-focused ETFs like the 
 
-- Vanguard Industrials ETF 
-- iShares S&P 500 Industrials Sector ETF
+- [Vanguard Industrials ETF](https://www.google.com/finance/beta/quote/VIS:NYSEARCA)   
+- [iShares S&P 500 Industrials Sector ETF](https://www.google.com/finance/beta/quote/IUIS:LON?hl=it) 
 
 ---
 
