@@ -96,8 +96,6 @@ use a dynamic formula like this:
 
 [How to Calculate Moving Average in Google Sheets](https://spreadsheetarchitect.substack.com/p/how-to-calculate-moving-average-in)  
 
-
-
 ---
 
 ## Question: How do I use the GOOGLEFINANCE function to retrieve data for a market indexes?
@@ -191,6 +189,51 @@ in a `QUERY()`.
 
 - Data Refresh: 
 The GOOGLEFINANCE function only fetches past dates; it will not display data for the current day.
+
+---
+
+# What are the most important market indexes for the Asian INDUSTRIAL sector?  
+
+The most definitive benchmark for the Asian industrial sector is the 
+`MSCI AC Asia Pacific Industrials Index`. 
+
+To analyze specific regional drivers, manufacturing hubs, or broader economic trends, 
+investors also track country-specific benchmarks and sub-indexes, as well as the 
+`FTSE ASEAN Index Series` for Southeast Asia.
+
+The primary market indexes for tracking Asia's industrial and manufacturing sectors include:
+
+1. Broad Regional Benchmarks
+
+- MSCI AC Asia Pacific Industrials Index: 
+
+AS
+[Amundi MSCI AC Asia Pacific Ex Japan UCITS ETF Acc](https://www.google.com/finance/beta/quote/AEJ:EPA)  
+
+Tracks large- and mid-cap industrial stocks across developed and emerging markets in 
+the Asia-Pacific region. It acts as the primary barometer for the sector's regional performance.
+
+- FTSE ASEAN Index Series: 
+
+[FTSE ASEAN 40](https://www.google.com/finance/beta/quote/ASEAN40:INDEXFTSE)    
+
+Market Coverage
+The index covers the five original founding members of ASEAN:
+- Singapore (~45% weight)
+- Thailand (~18% weight)
+- Indonesia (~17% weight)
+- Malaysia (~15% weight)
+- Philippines (~4% weight)
+
+[FTSE ASEAN All-Share Index](https://www.google.com/finance/beta/quote/ASEANAS:INDEXFTSE?hl=is)  
+
+Captures large- and mid-cap companies across the major ASEAN financial markets 
+(Malaysia, Indonesia, Philippines, Singapore, Thailand). It is highly useful for tracking 
+supply chain shifts and localized industrial output.
+
+2. Major Country-Specific Indicators
+
+Because industrial output varies wildly by country, investors rely on major domestic benchmarks to follow specific manufacturing and production strengths:Japan: The TOPIX Industrial Sector index measures heavy industry, automotive, and capital goods manufacturing giants that dominate the region.China: The CSI 300 Industrials Index provides a snapshot of the largest industrial, infrastructure, and manufacturing companies listed on the Shanghai and Shenzhen exchanges.India: The NIFTY Industrial Index covers major companies in engineering, capital goods, and infrastructure sectors, tracking one of the world's fastest-growing manufacturing economies.South Korea: The KOSPI 200 Industrials Index tracks the heavyweight electronics, shipbuilding, and heavy machinery segments.
 
 ---
 
@@ -356,7 +399,7 @@ Tracked by products such as the
 Tracked by U.S.-focused ETFs like the 
 
 - [Vanguard Industrials ETF](https://www.google.com/finance/beta/quote/VIS:NYSEARCA)   
-- [iShares S&P 500 Industrials Sector ETF](https://www.google.com/finance/beta/quote/IUIS:LON?hl=it) 
+- [iShares S&P 500 Industrials Sector ETF](https://www.google.com/finance/beta/quote/IUIS:LON) 
 
 ---
 
