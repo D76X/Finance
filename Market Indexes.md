@@ -190,6 +190,14 @@ in a `QUERY()`.
 - Data Refresh: 
 The GOOGLEFINANCE function only fetches past dates; it will not display data for the current day.
 
+
+---
+
+# Typical Questions
+
+1. What are the most important market indexes for the [* Asian INDUSTRIAL *] sector?  
+2. Which markets and sectors does this index cover?
+
 ---
 
 # What are the most important market indexes for the Asian INDUSTRIAL sector?  
@@ -213,23 +221,7 @@ AS
 Tracks large- and mid-cap industrial stocks across developed and emerging markets in 
 the Asia-Pacific region. It acts as the primary barometer for the sector's regional performance.
 
-- FTSE ASEAN Index Series: 
-
-[FTSE ASEAN 40](https://www.google.com/finance/beta/quote/ASEAN40:INDEXFTSE)    
-
-Market Coverage
-The index covers the five original founding members of ASEAN:
-- Singapore (~45% weight)
-- Thailand (~18% weight)
-- Indonesia (~17% weight)
-- Malaysia (~15% weight)
-- Philippines (~4% weight)
-
-[FTSE ASEAN All-Share Index](https://www.google.com/finance/beta/quote/ASEANAS:INDEXFTSE?hl=is)  
-
-Captures large- and mid-cap companies across the major ASEAN financial markets 
-(Malaysia, Indonesia, Philippines, Singapore, Thailand). It is highly useful for tracking 
-supply chain shifts and localized industrial output.
+---
 
 2. Major Country-Specific Indicators
 
@@ -877,7 +869,7 @@ investors often track this region through ETFs like the
 
 ---
 
-### is iShares MSCI Asia APEX 50 Index ETF relevant to the financial sector in ASIA?
+### Is iShares MSCI Asia APEX 50 Index ETF relevant to the financial sector in ASIA?
 
 Yes, the iShares Core MSCI Asia ex Japan ETF 
 (formerly known as the iShares MSCI Asia APEX 50 Index ETF) is highly relevant 
@@ -909,5 +901,51 @@ Note that in mid-2015, the fund changed its underlying benchmark
 from the older, narrower MSCI Asia APEX 50 Index to the broader 
 MSCI All Country Asia ex Japan Index to provide more comprehensive 
 exposure.
+
+---
+
+# Aisan Global Indexes
+
+- FTSE ASEAN Index Series: 
+
+[FTSE ASEAN 40](https://www.google.com/finance/beta/quote/ASEAN40:INDEXFTSE)    
+
+Market Coverage:
+
+The index covers the five original founding members of ASEAN:
+
+- Singapore (~45% weight)
+- Thailand (~18% weight)
+- Indonesia (~17% weight)
+- Malaysia (~15% weight)
+- Philippines (~4% weight)
+
+Sectors Covered
+
+The index is diversified across major industries using the `Industry Classification Benchmark (ICB)`.
+
+Notable sectors and constituents include:
+
+- Financials: 
+
+Dominated by major regional banks such as
+
+ - DBS Group Holdings (SGX:D05)
+ - Oversea-Chinese Banking Corp (SGX:O39) 
+ - Malayan Banking (Maybank) (KLSE:MAYBANK).
+
+- Technology: 
+
+    - Includes large hardware and equipment firms like Delta Electronics (Thailand) (SET:DELTA).
+    - Telecommunications: Represented by providers such as Singapore Telecommunications (Singtel) (SGX:Z74).
+    - Industrials & Utilities: Includes companies like International Container Terminal Services (PSE:ICT) and Tenaga Nasional (KLSE:TENAGA).
+
+---
+
+[FTSE ASEAN All-Share Index](https://www.google.com/finance/beta/quote/ASEANAS:INDEXFTSE?hl=is)  
+
+Captures large- and mid-cap companies across the major ASEAN financial markets 
+(Malaysia, Indonesia, Philippines, Singapore, Thailand). It is highly useful for tracking 
+supply chain shifts and localized industrial output.
 
 ---
