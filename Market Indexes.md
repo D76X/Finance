@@ -214,6 +214,14 @@ and mid-sized European industrial, manufacturing, and aerospace companies.
 
 1. MSCI Europe Industrials Index: 
 
+AS
+
+[StSt SPDR MSCI Europe Industrials UCITS ETF](https://www.google.com/finance/beta/quote/NDUS:LON)  
+
+[State Street SPDR MSCI Europe Industrials UCITS ETF EUR](https://www.justetf.com/en/etf-profile.html?isin=IE00BKWQ0J47)  
+
+- This one is not visible on Google but using the ticker `SWX:STQX`, it is still possible to track it in Google Sheet.
+
 Tracks approximately 90 large and mid-cap European companies across 15 countries. 
 It is heavily weighted toward aerospace, defense, and electrical equipment. 
 Investors frequently follow its sub-variants, such as the 
