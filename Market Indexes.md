@@ -47,6 +47,12 @@ Covers the energy sector subset of the S&P Global 1200, capturing the largest pu
 
 RENIXX World (Renewable Energy Industrial Index): The first and longest-running global stock index that tracks the 30 largest companies in the renewable energy industry, covering wind, solar, hydropower, and fuel cell technologies.S&P Global Clean Energy Index: Measures the performance of global companies engaged in clean energy production, equipment manufacturing, and technology.
 
+AS 
+
+[S&P/TSX Renewable Energy and Clean Technology Index](https://www.google.com/finance/beta/quote/TXCT:INDEXTSI)  
+
+[Nasdaq Clean Edge International Green Energy Index](https://www.google.com/finance/beta/quote/CELSI:INDEXNASDAQ)  
+
 ## Regional & Commodity Focus
 
 STOXX Europe 600 Oil & Gas: Tracks the performance of European energy giants.Energy Select Sector Index (IXE): An index used to track energy stocks within the US S&P 500. It underpins highly traded funds like the Energy Select Sector SPDR Fund (XLE).
