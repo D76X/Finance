@@ -26,6 +26,7 @@ The sector's primary benchmarks are broken down by geography and sub-industry:
 
 AS
 [iShares MSCI World Energy Sector UCITS ETF USD D](https://www.google.com/finance/beta/quote/WENS:LON)  
+
 [StSt SPDR MSCI World Energy UCITS ETF](https://www.google.com/finance/beta/quote/ENGW:LON)  
 
 Tracks the performance of large and mid-cap energy companies across 23 developed 
@@ -33,6 +34,12 @@ markets globally. It is highly concentrated in major oil and gas producers, as
 detailed on the MSCI World Energy Index page.
 
 - S&P Global 1200 Energy Index: 
+
+AS
+
+[S&P GLOBAL 1200 - Energy (Sector)](https://www.google.com/finance/beta/quote/SPG1200-10:INDEXSP)  
+
+[S&P Global 1200 Energy 4.5/22.5/45 Capped Index (USD)](https://www.google.com/finance/beta/quote/SPGENCUP:INDEXSP)  
 
 Covers the energy sector subset of the S&P Global 1200, capturing the largest publicly traded energy companies across the world. Find specifics on components via the S&P World Energy (Sector) Index.S&P 500 Energy Index: Tracks US energy companies within the S&P 500, often acting as the primary benchmark for American oil and gas majors like Exxon Mobil and Chevron.
 
