@@ -9,6 +9,10 @@
 
 ---
 
+# What are the most important market indexes for the Asian Energy sector?  
+
+---
+
 # What are the most important market indexes for the Global Energy sector?  
 
 The most important market indexes for the global energy sector are benchmarks 
@@ -55,7 +59,23 @@ AS
 
 ## Regional & Commodity Focus
 
-STOXX Europe 600 Oil & Gas: Tracks the performance of European energy giants.Energy Select Sector Index (IXE): An index used to track energy stocks within the US S&P 500. It underpins highly traded funds like the Energy Select Sector SPDR Fund (XLE).
+[STXE 600 OIL+GAS PR.EUR](https://www.google.com/finance/beta/quote/SXEP:INDEXSTOXX)   
+
+Tracks the performance of European energy giants.
+
+[Energy Select Sector Index (IXE)](https://www.google.com/finance/beta/quote/IXE:INDEXSP): 
+
+An index used to track energy stocks within the US S&P 500. 
+It underpins highly traded funds like the 
+Energy Select Sector SPDR Fund (XLE).
+
+It is designed to track companies from the S&P 500 (INDEXSP:.INX) 
+that are classified under the Energy sector according to the 
+Global Industry Classification Standard (GICS).
+
+- Market: 
+
+Large-cap public equity markets in the United States.
 
 ---
 
