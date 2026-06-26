@@ -43,7 +43,42 @@ Street Energy Select Sector SPDR ETF (XLE).
 
 - Overview: 
 
-Provides a broader representation of the US energy market by including small and mid-cap companies alongside large-cap industry leaders.Key Components: Heavily weighted towards Integrated Oil & Gas, followed by Exploration & Production, equipment, and refining.Tracking ETF: Serves as the benchmark for the Vanguard Energy ETF (VDE).3. Dow Jones U.S. Oil & Gas Index (DJUSEN)Overview: Measures the performance of companies in the domestic petroleum and natural gas sectors.Focus: It captures the broader US equities involved in oil drilling, equipment services, and pipelines.4. NYSE Arca Oil Index (XOI)Overview: A price-weighted benchmark of leading petroleum exploration, production, and development companies.Focus: Being price-weighted rather than market-cap-weighted, it gives more attention to higher-priced individual stocks, often highlighting direct shifts in major oil names.
+Provides a broader representation of the US energy market by including 
+small and mid-cap companies alongside large-cap industry leaders.
+
+- Key Components: 
+
+Heavily weighted towards Integrated Oil & Gas, followed by Exploration 
+& Production, equipment, and refining.
+
+- Tracking ETF: 
+
+Serves as the benchmark for the Vanguard Energy ETF (VDE).
+
+3. Dow Jones U.S. Oil & Gas Index (DJUSEN)
+
+- Overview: 
+
+Measures the performance of companies in the domestic petroleum and 
+natural gas sectors.
+
+- Focus: 
+
+It captures the broader US equities involved in oil drilling, equipment services,
+and pipelines.
+
+4. NYSE Arca Oil Index (XOI)
+
+- Overview: 
+
+A price-weighted benchmark of leading petroleum exploration, production, 
+and development companies.
+
+- Focus: 
+
+Being price-weighted rather than market-cap-weighted, it gives more attention
+to higher-priced individual stocks, often highlighting direct shifts in major 
+oil names.
 
 ---
 
