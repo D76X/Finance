@@ -28,15 +28,25 @@ broad/traditional energy and sustainable/clean energy:
 
 - MSCI Europe Energy Index: 
 
+AS
+
+[StSt SPDR MSCI Europe Energy UCITS ETF](https://www.google.com/finance/beta/quote/ENGY:LON)  
+
+[iShares MSCI Europe Energy Sector UCITS EUR (Acc) ET](https://www.google.com/finance/beta/quote/ESIE:LON)
+
 Tracks large and mid-cap energy companies across 15 developed European markets, with a heavy weighting towards major U.K. and French operators like Shell and TotalEnergies. 
 
 Often licensed as the 
 
 - MSCI Europe Energy 35/20 Capped Index 
 
+AS 
+
+[StSt SPDR MSCI Europe Energy UCITS ETF](https://www.google.com/finance/beta/quote/ENGE:LON)   
+
 to manage issuer concentration limits.
 
-- STOXX Europe 600 Energy Index: 
+- [STOXX Europe 600 Energy Index](https://www.google.com/finance/beta/quote/SXEP:INDEXSTOXX): 
 
 Measures the performance of the energy sector within the broader STOXX Europe 600, operating as a key benchmark for companies involved in the production, refining, and distribution of oil, gas, and coal.
 
@@ -48,7 +58,23 @@ Derived from the `S&P Europe 350`, this index captures the performance of the la
 
 - S&P North America and Europe Clean Energy Index: 
 
-Measures the performance of the largest companies in clean energy-related businesses.European Renewable Energy Index (^ERNRG): A regional index that focuses specifically on equities related to wind, solar, and other renewable sources.RENIXX World: While global, it is a primary benchmark used by European investors to track the performance of the 30 largest companies globally in wind, solar, fuel cells, and green hydrogen.Commodity & Spot Market BenchmarksEEX European Gas Spot Index (EEX EGSI): Provided by the European Energy Exchange (EEX), it represents the benchmark spot-market pricing for natural gas, reflecting exchange-traded contracts across all European market areas.
+Measures the performance of the largest companies in clean energy-related businesses.
+
+- European Renewable Energy Index (^ERNRG): 
+
+A regional index that focuses specifically on equities related to wind, 
+solar, and other renewable sources.
+
+- RENIXX World: 
+
+While global, it is a primary benchmark used by European investors to track the performance of the 30 largest companies globally in wind, solar, fuel cells, and green hydrogen.
+
+## Commodity & Spot Market Benchmarks
+
+- EEX European Gas Spot Index (EEX EGSI): 
+
+Provided by the European Energy Exchange (EEX), it represents the benchmark spot-market pricing for natural gas, reflecting exchange-traded contracts 
+across all European market areas.
 
 ---
 
