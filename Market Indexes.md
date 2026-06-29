@@ -10,6 +10,40 @@
 
 ---
 
+# What are the most important market indexes for the Global Robotic sector?  
+
+The most important market indexes for the global robotics sector are specialized thematic 
+benchmarks that track companies involved in industrial automation, enabling technologies, 
+and artificial intelligence.
+
+The primary benchmarks driving this space include:
+
+- ROBO Global Robotics and Automation Index: 
+
+AS
+
+[ROBO Global Robotics and Automation Index ETF](https://www.google.com/finance/beta/quote/ROBO:NYSEARCA)   
+
+Often considered the benchmark for the sector, it tracks the global value chain from pure-play robotics 
+to enabling technologies like artificial intelligence and sensors.
+
+- MSCI ACWI IMI Robotics & AI Index: 
+
+Captures mid- and large-cap stocks across developed and emerging markets that are linked to the 
+adoption and utilization of AI, robotics, and automation.
+
+- Nasdaq CTA Artificial Intelligence and Robotics Index: 
+
+Focuses on companies in the tech, industrial, and medical sectors classified as either AI and robotics 
+enablers, engagers, or enhancers.
+
+- S&P Kensho Robotics Index: 
+
+A specialized index tracking companies 
+that develop robots and the broader supply chain ecosystem providing specialized products and services.
+
+---
+
 # What are the most important market indexes for the USA Energy sector?  
 
 [Energy Select Sector Index (IXE)](https://www.google.com/finance/beta/quote/IXE:INDEXSP)  
@@ -21,9 +55,10 @@ The most important market indexes for the USA energy sector are the
 - Dow Jones U.S. Oil & Gas Index
 - NYSE Arca Oil Index (XOI)
 
-These benchmarks measure varying segments of the US energy market—from massive integrated corporations to exploration firms.
+These benchmarks measure varying segments of the US energy market—from 
+massive integrated corporations to exploration firms.
 
-1. Energy Select Sector Index (IXE)
+1. [Energy Select Sector Index (IXE)](https://www.google.com/finance/beta/quote/IXE:INDEXSP)  
 
 - Overview: 
 
@@ -41,6 +76,10 @@ Street Energy Select Sector SPDR ETF (XLE).
 
 2. MSCI US Investable Market Energy Index (MSCIEN)
 
+AS
+
+[iShares MSCI World Energy Sector UCITS ETF USD D](https://www.google.com/finance/beta/quote/WENS:LON)  
+
 - Overview: 
 
 Provides a broader representation of the US energy market by including 
@@ -55,7 +94,7 @@ Heavily weighted towards Integrated Oil & Gas, followed by Exploration
 
 Serves as the benchmark for the Vanguard Energy ETF (VDE).
 
-3. Dow Jones U.S. Oil & Gas Index (DJUSEN)
+3. [Dow Jones U.S. Oil & Gas Index (DJUSEN)](https://www.google.com/finance/beta/quote/DJUSEN:INDEXDJX)  
 
 - Overview: 
 
@@ -68,6 +107,28 @@ It captures the broader US equities involved in oil drilling, equipment services
 and pipelines.
 
 4. NYSE Arca Oil Index (XOI)
+
+AS
+
+[Amex Oil Index](https://www.google.com/finance/beta/quote/XOI:INDEXNYSEGIS)   
+
+`Amex Oil Index` known as the `NYSE Arca Oil Index`, is a price-weighted benchmark that tracks 
+leading companies in the petroleum industry.
+
+- Sector Coverage:
+    - Exploration and Production (E&P)    
+    - Refining and Marketing
+    - Oil Services
+
+- Market Coverage
+    - Exchanges: NYSE and NASDAQ
+    - Geographic U.S. exchanges including international "supermajors" like BP p.l.c. (NYSE:BP), Shell (NYSE:SHEL), and TotalEnergies (NYSE:TTE)
+
+- Key Components
+    - ExxonMobil (NYSE:XOM)
+    - Chevron (NYSE:CVX)
+    - ConocoPhillips (NYSE:COP)
+    - Occidental Petroleum (NYSE:OXY)
 
 - Overview: 
 
