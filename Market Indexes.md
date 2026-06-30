@@ -10,6 +10,72 @@
 
 ---
 
+# What are the most important market indexes for the Asian Robotic sector?  
+
+The most important market indexes for the Asian robotics sector include specialized benchmarks 
+like the: 
+
+- Solactive Asia Robotics & Artificial Intelligence Index 
+
+- CSI Robot Index 
+
+
+These indexes track a mix of Japanese automation giants, Chinese humanoid and industrial leaders, 
+and South Korean tech developers.
+
+## Key Asian Robotics Indexes
+
+- Solactive Asia Robotics & Artificial Intelligence Index: 
+
+Tracks the performance of companies across Asia that are heavily involved in the robotics and AI sectors,
+capturing established Japanese industrial firms and emerging tech markets.
+
+- CSI Robot Index: 
+
+A major benchmark specifically tracking the A-share market in China, capturing the extensive supply chain
+and hardware manufacturers involved in the booming Chinese robotics and physical AI industries.
+
+- MSCI China USA Robotics & AI 65/35 Index: 
+
+While not purely Asian, this index features heavy Chinese (57.7%) and American (41.3%) allocation, tracking 
+companies expected to benefit from long-term trends in automation, AI, and robotics.
+
+- China's Robotics Industry Index (RII): 
+
+Published by financial agencies and economic journals in China, this index acts as a barometer of the country's 
+robotics manufacturing maturation, export volume, and operational health.
+
+- S&P Kensho AI, Robotics & Automation Index Family: 
+
+An innovative technology index family from `S&P Global` that captures global and regional exposure to 
+autonomous vehicles, drones, and 3D printing.
+
+## Major Asian Robotics Companies and Markets
+
+To understand what these indexes hold, it helps to look at the primary drivers of the sector across Asia:
+
+- Japan: 
+
+Home to the world's largest industrial robot installations and companies like `Fanuc` Corporation and 
+`Yaskawa Electric Corporation`, which dominate global factory automation.
+
+- China: 
+
+The global leader in manufacturing and humanoid deployment (representing approximately 90% of global 
+humanoid installations), with heavily tracked supply chain firms and robotics companies listed on local exchanges.
+
+- South Korea: 
+
+Consistently ranked as the world's top market for robot density (the number of operational robots per 
+10,000 manufacturing workers) driven by its highly automated automotive and electronics sectors.
+
+## Further Exploration: 
+
+Robotics Market & TechnologyLearn more about the benchmark composition using the Solactive factsheet.
+Track overall regional trends via Robotics Center regional market research.
+
+---
+
 # What are the most important market indexes for the Global Robotic sector?  
 
 The most important market indexes for the global robotics sector are specialized thematic 
@@ -32,15 +98,15 @@ to enabling technologies like artificial intelligence and sensors.
 Captures mid- and large-cap stocks across developed and emerging markets that are linked to the 
 adoption and utilization of AI, robotics, and automation.
 
-- Nasdaq CTA Artificial Intelligence and Robotics Index: 
+- [Nasdaq CTA Artificial Intelligence and Robotics Index](https://www.google.com/finance/beta/quote/NQROBO:INDEXNASDAQ):   
 
 Focuses on companies in the tech, industrial, and medical sectors classified as either AI and robotics 
 enablers, engagers, or enhancers.
 
-- S&P Kensho Robotics Index: 
+- [S&P Kensho Robotics Index](https://www.google.com/finance/beta/quote/KBOTSP:INDEXSP): 
 
-A specialized index tracking companies 
-that develop robots and the broader supply chain ecosystem providing specialized products and services.
+A specialized index tracking companies that develop robots and the broader supply chain ecosystem
+providing specialized products and services.
 
 ---
 
