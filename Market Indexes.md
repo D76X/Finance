@@ -10,6 +10,12 @@
 
 ---
 
+# What are the most important market indexes for the European Robotic sector?  
+
+The European robotics sector primarily relies on global and regional thematic benchmarks rather than standalone European-only indexes. The most important market indexes tracking these companies include the ROBO Global Robotics and Automation Index, the STOXX Global Automation & Robotics Index, and the S&P Kensho Robotics Index.Key Market IndexesROBO Global Robotics and Automation UCITS Index: The premier benchmark for the space, this index captures global companies involved in both technology (sensors, AI, computing) and specific automation applications (industrial, logistics, medical). European companies like ABB and BEUMER Group are well represented here. Tracked primarily by the L&G ROBO Global Robotics and Automation UCITS ETF.STOXX Global Automation & Robotics Index: Created by Qontigo, this benchmark tracks companies that generate significant revenues from robotics, autonomous driving, and factory automation. It uses a patent-based methodology to find true innovators. Tracked by the iShares Automation & Robotics UCITS ETF.S&P Kensho Robotics Index: A part of the broader innovative technology family by S&P Dow Jones, this index uses artificial intelligence and machine learning to identify companies driving the robotics revolution.Why Global vs. European Indexes?Because the robotics supply chain is highly interconnected, most European robotics-focused indexes fail to provide enough diversification on their own. Instead, investors and market analysts look at global baskets (where Europe is a major player, particularly in Germany's industrial automation and Sweden's robotics sectors). These global indexes feature major European pure-play stocks alongside their Asian and North American peers.Important European Sector PlayersWhile indices include global players, Europe has highly dominant companies that dictate the sector's market movements:ABB (Sweden/Switzerland): One of the largest industrial robotics and automation providers worldwide.KUKA (Germany): A global leader in robotics and systems engineering.Universal Robots (Denmark): Leading pioneer in collaborative robots (cobots).
+
+---
+
 # What are the most important market indexes for the Asian Robotic sector?  
 
 The most important market indexes for the Asian robotics sector include specialized benchmarks 
@@ -29,6 +35,35 @@ and South Korean tech developers.
 
 Tracks the performance of companies across Asia that are heavily involved in the robotics and AI sectors,
 capturing established Japanese industrial firms and emerging tech markets.
+
+### Which ETF tracks the Solactive Asia Robotics & Artificial Intelligence Index?
+
+The `KraneShares Global Hmnd Rbtcs & Physcl AI Idx ETF (NASDAQ: KOID)` is the ETF
+that tracks the Solactive Asia Robotics & Artificial Intelligence Index.
+
+The fund previously traded under the name KraneShares Asia Robotics and Artificial Intelligence Index ETF 
+before undergoing a strategy update and a name and ticker change.
+
+[KraneShares Global Hmnd Rbtcs & Physcl AI Idx ETF](https://www.google.com/finance/beta/quote/KOID:NASDAQ?hl=km)
+
+Market Coverage
+The index includes companies from both developed and emerging markets.
+Its primary geographic exposure includes:
+
+- United States
+- China
+- Japan
+- South Korea and Europe
+
+Sector Coverage
+
+The fund focuses on three primary buckets within the robotics value chain:
+
+- The "Brain" (Technology): Includes semiconductors and AI software companies, such as NVIDIA (NASDAQ:NVDA)
+- The "Body" (Industrials & Materials): Companies providing actuation systems, mechanical systems, sensing, perception, and critical materials.
+- The "Builders" (Manufacturing): Companies that design, manufacture, or integrate humanoid robots into industries.
+
+---
 
 - CSI Robot Index: 
 
@@ -107,6 +142,38 @@ enablers, engagers, or enhancers.
 
 A specialized index tracking companies that develop robots and the broader supply chain ecosystem
 providing specialized products and services.
+
+---
+
+# Robotic Sector Investments
+
+[Doo Wealth Selected AI and Automation Active ETF](https://www.google.com/finance/beta/quote/3413:HKG)  
+Doo Wealth Selected AI and Automation Active ETF (HKG:3413)is an 
+**actively managed fund and does not seek to track a specific index or benchmark**. 
+Instead, it employs an active investment strategy to select securities within its target scope.
+
+## Market and Sector Coverage
+
+- Target Sector: 
+
+The fund primarily invests in companies involved in 
+
+- Artificial Intelligence (AI) 
+- Automation businesses.
+
+- Geographic Coverage: 
+
+It has a global investment mandate, allowing it to invest in equities listed on any exchange worldwide.
+
+- Eligible Assets: 
+
+Its holdings include listed equities, American Depositary Receipts (ADRs), 
+and Global Depositary Receipts (GDRs).
+
+- Investment Concentration: 
+
+At least 70% of its Net Asset Value (NAV) is typically invested in companies central 
+to the AI and automation sectors.
 
 ---
 
