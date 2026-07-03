@@ -12,7 +12,68 @@
 
 # What are the most important market indexes for the USA Robotic sector?  
 
-The most prominent market indexes tracking the U.S. robotics sector are thematic benchmarks that include both pure-play robotics firms and diversified tech leaders.The primary benchmarks include:Nasdaq CTA Artificial Intelligence and Robotics Index (NQROBO): Tracks companies classified as "enablers, engagers, or enhancers" of AI and robotics across multiple sectors, including technology and healthcare.ROBO Global Robotics and Automation Index (ROBO): A widely followed international benchmark with a heavy U.S. presence, capturing the entire value chain from robotic components to full-scale automation systems.S&P Kensho Robotics Index: Part of the S&P Kensho suite, this index uses algorithmic screening to identify U.S. companies driving the robotics industry.Morningstar US Robotics Index: Measures the performance of up to 30 U.S. companies that have significant exposure to the robotics theme and meet specific liquidity screens.MSCI ACWI IMI Robotics & AI Index: While a global benchmark, it is heavily weighted toward U.S. equities and tracks companies involved in robotics, autonomous systems, and artificial intelligence.
+The most prominent market indexes tracking the U.S. robotics sector are 
+thematic benchmarks that include both pure-play robotics firms and 
+diversified tech leaders.
+
+The primary benchmarks include:
+
+- Nasdaq CTA Artificial Intelligence and Robotics Index (NQROBO): 
+AS
+[Nasdaq CTA Artificial Intelligence and Robotics Index](https://www.google.com/finance/beta/quote/NQROBO:INDEXNASDAQ):   
+
+
+Tracks companies classified as "enablers, engagers, or enhancers" of AI 
+and robotics across multiple sectors, including technology and healthcare.
+
+- ROBO Global Robotics and Automation Index (ROBO): 
+AS
+[ROBO Global Robotics and Automation Index ETF](https://www.google.com/finance/beta/quote/ROBO:NYSEARCA)   
+
+A widely followed international benchmark with a heavy U.S. presence, capturing 
+the entire value chain from robotic components to full-scale automation systems.
+
+- S&P Kensho Robotics Index: 
+AS
+[S&P Kensho Robotics Index](https://www.google.com/finance/beta/quote/KBOTSP:INDEXSP)
+
+Part of the S&P Kensho suite, this index uses algorithmic screening to 
+identify U.S. companies driving the robotics industry.
+
+- Morningstar US Robotics Index: 
+AS
+[Invesco Morningstar Global Next Gen AI Index ETF](https://www.google.com/finance/beta/quote/INAI:TSE)  
+
+Measures the performance of up to 30 U.S. companies that have significant 
+exposure to the robotics theme and meet specific liquidity screens.
+
+> Geographic Exposure
+
+As of early 2026, the index is heavily concentrated in the United States, 
+with significant exposure to major Asian tech hubs:
+
+- United States: ~68.49%
+- China: ~13.98%
+- Taiwan: ~11.03%
+- South Korea: ~2.85%
+
+> Sector and Industry Coverage
+
+While the index is dominated by the Information Technology sector, 
+it follows a thematic approach that includes companies across various 
+industries involved in AI data, infrastructure, and generative AI services:
+
+- Information Technology: ~70.63% (software, services, and semiconductors like NVIDIA (NASDAQ:NVDA) and Broadcom (NASDAQ:AVGO))
+- Communication Services: ~17.64% (companies like Alphabet (NASDAQ:GOOGL) and Meta Platforms (NASDAQ:META))
+- Consumer Discretionary: ~10.29% (including Amazon (NASDAQ:AMZN) and Alibaba (NYSE:BABA))
+- Minor Allocations: Utilities (~0.83%) and Health Care (~0.61%).
+
+---
+
+- MSCI ACWI IMI Robotics & AI Index: 
+
+While a global benchmark, it is heavily weighted toward U.S. equities and tracks 
+companies involved in robotics, autonomous systems, and artificial intelligence.
 
 ---
 
