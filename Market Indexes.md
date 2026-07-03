@@ -10,9 +10,62 @@
 
 ---
 
+# What are the most important market indexes for the USA Robotic sector?  
+
+The most prominent market indexes tracking the U.S. robotics sector are thematic benchmarks that include both pure-play robotics firms and diversified tech leaders.The primary benchmarks include:Nasdaq CTA Artificial Intelligence and Robotics Index (NQROBO): Tracks companies classified as "enablers, engagers, or enhancers" of AI and robotics across multiple sectors, including technology and healthcare.ROBO Global Robotics and Automation Index (ROBO): A widely followed international benchmark with a heavy U.S. presence, capturing the entire value chain from robotic components to full-scale automation systems.S&P Kensho Robotics Index: Part of the S&P Kensho suite, this index uses algorithmic screening to identify U.S. companies driving the robotics industry.Morningstar US Robotics Index: Measures the performance of up to 30 U.S. companies that have significant exposure to the robotics theme and meet specific liquidity screens.MSCI ACWI IMI Robotics & AI Index: While a global benchmark, it is heavily weighted toward U.S. equities and tracks companies involved in robotics, autonomous systems, and artificial intelligence.
+
+---
+
 # What are the most important market indexes for the European Robotic sector?  
 
-The European robotics sector primarily relies on global and regional thematic benchmarks rather than standalone European-only indexes. The most important market indexes tracking these companies include the ROBO Global Robotics and Automation Index, the STOXX Global Automation & Robotics Index, and the S&P Kensho Robotics Index.Key Market IndexesROBO Global Robotics and Automation UCITS Index: The premier benchmark for the space, this index captures global companies involved in both technology (sensors, AI, computing) and specific automation applications (industrial, logistics, medical). European companies like ABB and BEUMER Group are well represented here. Tracked primarily by the L&G ROBO Global Robotics and Automation UCITS ETF.STOXX Global Automation & Robotics Index: Created by Qontigo, this benchmark tracks companies that generate significant revenues from robotics, autonomous driving, and factory automation. It uses a patent-based methodology to find true innovators. Tracked by the iShares Automation & Robotics UCITS ETF.S&P Kensho Robotics Index: A part of the broader innovative technology family by S&P Dow Jones, this index uses artificial intelligence and machine learning to identify companies driving the robotics revolution.Why Global vs. European Indexes?Because the robotics supply chain is highly interconnected, most European robotics-focused indexes fail to provide enough diversification on their own. Instead, investors and market analysts look at global baskets (where Europe is a major player, particularly in Germany's industrial automation and Sweden's robotics sectors). These global indexes feature major European pure-play stocks alongside their Asian and North American peers.Important European Sector PlayersWhile indices include global players, Europe has highly dominant companies that dictate the sector's market movements:ABB (Sweden/Switzerland): One of the largest industrial robotics and automation providers worldwide.KUKA (Germany): A global leader in robotics and systems engineering.Universal Robots (Denmark): Leading pioneer in collaborative robots (cobots).
+The European robotics sector primarily relies on global and regional thematic 
+benchmarks rather than standalone European-only indexes. 
+
+The most important market indexes tracking these companies include the 
+
+- ROBO Global Robotics and Automation Index
+- STOXX Global Automation & Robotics Index
+- S&P Kensho Robotics Index
+
+## Key Market Indexes
+
+- ROBO Global Robotics and Automation UCITS Index: 
+AS
+[ROBO Global Robotics and Automation Index ETF](https://www.google.com/finance/beta/quote/ROBO:NYSEARCA)   
+
+The premier benchmark for the space, this index captures global companies involved 
+in both technology (sensors, AI, computing) and specific automation applications (industrial, logistics, medical). European companies like ABB and BEUMER Group are well represented here. 
+Tracked primarily by the L&G ROBO Global Robotics and Automation UCITS ETF.
+
+- STOXX Global Automation & Robotics Index: 
+
+Created by Qontigo, this benchmark tracks companies that generate significant 
+revenues from robotics, autonomous driving, and factory automation. 
+
+It uses a patent-based methodology to find true innovators. Tracked by the iShares Automation & Robotics UCITS ETF.
+
+- S&P Kensho Robotics Index: 
+AS
+[S&P Kensho Robotics Index](https://www.google.com/finance/beta/quote/KBOTSP:INDEXSP)
+
+A part of the broader innovative technology family by S&P Dow Jones, this index uses artificial intelligence and machine learning to identify companies driving the robotics revolution.
+
+## Why Global vs. European Indexes?
+
+Because the robotics supply chain is highly interconnected, most European robotics-focused 
+indexes fail to provide enough diversification on their own. 
+
+Instead, investors and market analysts look at global baskets 
+(where Europe is a major player, particularly in Germany's industrial automation 
+and Sweden's robotics sectors). 
+
+These global indexes feature major European pure-play stocks alongside their 
+Asian and North American peers.Important European Sector PlayersWhile indices 
+include global players, Europe has highly dominant companies that dictate the 
+sector's market movements:
+
+- ABB (Sweden/Switzerland): One of the largest industrial robotics and automation providers worldwide
+- KUKA (Germany): A global leader in robotics and systems engineering.Universal Robots (Denmark): Leading pioneer in collaborative robots (cobots).
 
 ---
 
