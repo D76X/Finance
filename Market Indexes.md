@@ -10,6 +10,48 @@
 
 ---
 
+# What are the most important market indexes for the Global Quantum Computing sector?  
+
+The most prominent market indexes for the global quantum computing sector 
+track both pure-play companies and diversified tech giants involved in the industry. 
+
+The primary benchmarks include:
+
+- STOXX Global Quantum Computing Index: 
+
+Measures companies that are heavily involved in the development and application 
+of quantum computing technologies. It is utilized by investment funds, such as iShares, 
+to track industry leaders.
+
+- [S&P Kensho Global Quantum Computing Technologies Index](https://www.google.com/finance/beta/quote/KGQUANTP:INDEXSP): 
+
+Tracks global companies producing commercialized quantum computing technologies 
+and vital sub-components. It uses a modified market-cap weighting and is heavily 
+focused on thematics.
+
+- MarketVector Global Quantum Leaders Index (MVQTML): 
+
+Focuses on companies primarily engaged in developing quantum computing 
+technology or possessing leading patent portfolios in the space.FactSet 
+
+## Global Quantum Computing Index: 
+
+Follows international equities driving advancements in quantum computing hardware, 
+software, and integrated solutions.
+
+- Defiance Quantum ETF (QTUM): 
+
+While an exchange-traded fund rather than a pure index, it serves as a leading 
+benchmark for tracking a basket of quantum computing and machine learning stocks.
+
+---
+
+# Quantum Sector ETFs
+
+[Quantum Computing Inc](https://www.google.com/finance/beta/quote/QUBT:NASDAQ)  
+
+---
+
 # What are the most important market indexes for the USA Robotic sector?  
 
 The most prominent market indexes tracking the U.S. robotics sector are 
