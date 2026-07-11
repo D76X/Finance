@@ -8,6 +8,7 @@
 
 2. Which markets and sectors does this index cover?
 
+3. Which markets, sectors and geographical areas does this index cover?
 ---
 
 # What are the most important market indexes for the Global Quantum Computing sector?  
@@ -39,7 +40,7 @@ technology or possessing leading patent portfolios in the space.FactSet
 Follows international equities driving advancements in quantum computing hardware, 
 software, and integrated solutions.
 
-- Defiance Quantum ETF (QTUM): 
+- [Defiance Quantum ETF (QTUM)](https://www.google.com/finance/beta/quote/QTUM:NASDAQ): 
 
 While an exchange-traded fund rather than a pure index, it serves as a leading 
 benchmark for tracking a basket of quantum computing and machine learning stocks.
@@ -48,7 +49,79 @@ benchmark for tracking a basket of quantum computing and machine learning stocks
 
 # Quantum Sector ETFs
 
+---
+
+[Quantum Corp](https://www.google.com/finance/beta/quote/QMCO:NASDAQ)  
+
+---
+
+[S&P Kensho Global Quantum Computing Technologies Index](https://www.google.com/finance/beta/quote/KGQUANTP:INDEXSP): 
+
+> Geographical Coverage
+
+The indices cover approximately 90% of the free-float market capitalization of the following 17 countries
+
+- Major markets are in Europe
+- approximately 90% of the free-float market capitalization of the relevant European investable market
+
+> Sectors
+
+Specifically tracks companies within the Health Care supersector.
+It is a subset of the broader STOXX Europe 600 Index and covers developed markets across 17 European countries, 
+including the United Kingdom, Switzerland, Germany, and France.
+
+- Market and Sector Coverage
+
+Sector Focus: The index exclusively covers companies classified under the Health Care industry 
+according to the Industry Classification Benchmark (ICB).
+
+> Key Components
+
+The index's top holdings typically include major European pharmaceutical and healthcare companies, such as:
+
+- Novartis AG (SWX:NOVN)
+- AstraZeneca PLC (LON:AZN)
+- Roche Holding AG (SWX:ROG)
+- Novo Nordisk A/S (CPH:NOVO-B)
+- GSK PLC (LON:GSK)
+
+---
+
 [Quantum Computing Inc](https://www.google.com/finance/beta/quote/QUBT:NASDAQ)  
+
+> Geographical Coverage
+The indices cover approximately 90% of the free-float market capitalization of the following 17 countries
+
+- Major markets are in Europe
+
+> Sectors
+
+- Quantum Computing & AI: 
+
+QCi provides hardware like the Entropy Quantum Computer (EQC) and reservoir computing 
+machines (Emucore and Neurawave) designed for artificial intelligence and machine learning applications.
+
+- Cybersecurity: 
+The company develops quantum authentication products and networks aimed at securing communications.
+
+- Remote Sensing & LiDAR: 
+It produces quantum photonic vibrometers and LiDAR sensing systems that allow for high-fidelity imaging in difficult environments (e.g., fog, ice, or water).
+
+- Semiconductor Foundry Services: 
+Through its facility in Arizona, QCi provides foundry services specializing in thin-film lithium niobate (TFLN) chip development for optical devices.
+
+> Target Industries
+
+QCi leverages its expertise to solve complex optimization and sensing problems across various sectors, including:
+
+- Government & Defense: 
+Providing sensing and secure communication tools.
+
+- Finance: 
+Developing algorithms for portfolio optimization and risk analysis.
+
+- High-Performance Computing: 
+Bridging the gap between classical and quantum computing for data-intensive industries.
 
 ---
 
