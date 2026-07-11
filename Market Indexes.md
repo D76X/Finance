@@ -89,19 +89,130 @@ benchmark for tracking a basket of quantum computing and machine learning stocks
 
 # Quantum Sector ETFs
 
+[Defiance Quantum ETF](https://www.google.com/finance/beta/quote/QTUM:NASDAQ)
+
+## Which markets, sectors and, geographical areas does "Defiance Quantum ETF" cover?
+
+
+The `Defiance Quantum ETF (NASDAQ:QTUM)` is a thematic fund designed to track the 
+`BlueStar Machine Learning and Quantum Computing Index`.
+
+It focuses on global companies at the forefront of the next generation of computing power.
+
+> Markets & Sectors Covered
+
+The fund is heavily concentrated in the Technology sector, which typically accounts 
+for over 80% of its weight.
+
+Its primary focus areas include:
+
+- Quantum Computing Infrastructure: 
+Companies developing quantum hardware, trapped-ion systems, and photonic processors.
+
+- Artificial Intelligence & Machine Learning: 
+Firms engaged in the development and commercialization of AI and big data management technologies.
+
+- Semiconductors & Components: 
+Manufacturers of specialized chips and superconducting materials.
+
+- Other Sectors: 
+The ETF also includes smaller exposures to 
+     - Industrials (approx. 9%)
+     - Communication Services (approx. 5-7%) 
+     - minor holdings in Healthcare and Consumer Cyclical
+
+> Geographical Exposure
+
+QTUM has a global reach but is predominantly invested in `North America`.
+As of mid-2026, its approximate regional breakdown is:
+Americas: ~77% (dominated by the United States at ~58%).
+Asia Pacific: ~14% (including significant holdings in Japan, China, Taiwan, and Singapore).
+Europe: ~9% (including exposure to the Netherlands, Switzerland, Italy, and Finland)
+
 ---
 
 [S&P Kensho Global Quantum Computing Technologies Index](https://www.google.com/finance/beta/quote/KGQUANTP:INDEXSP): 
 
+## Which markets, sectors and, geographical areas does "S&P Kensho Global Quantum Computing Technologies Index" cover?
+
+The `S&P Kensho Global Quantum Computing Technologies Index (USD) (INDEXSP:KGQUANTP)` provides exposure 
+to the global ecosystem of quantum computing.
+
+> Market and Sector Coverage
+
+The index includes companies involved in the following business activities:
+
+- Commercialized Technologies: 
+
+Global companies producing proof-of-concept or commercialized quantum computing technologies.
+Vital Sub-components: Producers of sub-components essential for the development and operation of quantum computers.
+Primary Industries: While thematic in nature, typical constituents in this space often fall under sectors such as Information Technology (software and services, hardware) and Industrials (advanced manufacturing).
+
+> Geographical Areas
+
+As a `global index`, its mandate allows for broad international representation.
+ 
+S&P Dow Jones Indices generally draws constituents from major exchanges across:
+
+- North America (primarily the U.S.).
+- EMEA (Europe, Middle East, and Africa).
+- Asia Pacific.
+- Latin America.
 
 
 ---
 
 [Quantum Computing Inc](https://www.google.com/finance/beta/quote/QUBT:NASDAQ)  
 
----
+## Which markets, sectors and, geographical areas does "Quantum Computing Inc" cover?
 
-[Defiance Quantum ETF](https://www.google.com/finance/beta/quote/QTUM:NASDAQ)
+
+`Quantum Computing Inc (NASDAQ:QUBT)` is an integrated photonics and quantum optics 
+company that operates across various technology-driven sectors, primarily serving 
+commercial and government markets in `the United States`.
+
+> Markets and Sectors Served
+
+The company focuses on delivering accessible quantum machines and photonic solutions 
+designed for real-world applications.
+
+- Its core markets include:
+
+- Technology & Computing: 
+
+    - High-performance computing (HPC) 
+    - artificial intelligence (AI)
+    - reservoir computing.
+
+- Government & Defense: 
+
+Providing specialized quantum machines, remote sensing, and LiDAR systems for government agencies.
+
+- Cybersecurity: 
+
+Developing secure communication and quantum-inspired security solutions.
+
+- Financial Services: 
+
+Utilizing quantum algorithms for solving complex optimization problems in the finance sector.
+
+- Industrial & Advanced Manufacturing: 
+
+Operating a dedicated thin-film lithium niobate (TFLN) foundry for optical chip development and 
+offering solutions for logistics and supply chain optimization.
+
+> Geographical Areas
+
+While the company aims for global impact, its primary physical presence and 
+operational focus are in the `United States`:
+
+> Headquarters: Hoboken, New Jersey.
+Operations & Fabrication: Key facilities include a photonics foundry (Fab 1) in Tempe, Arizona, 
+and regional operations in California, Illinois, Indiana, Massachusetts, North Carolina, and Virginia.
+
+- International Listings: 
+
+The stock is also traded internationally on the Mexico Stock Exchange and the Sao Paulo Stock Exchange in Brazil.
 
 ---
 
@@ -109,26 +220,76 @@ benchmark for tracking a basket of quantum computing and machine learning stocks
 
 ## Which markets, sectors and, geographical areas does Quantum Corp cover?
 
-As of 2026, Quantum Corp (NASDAQ:QMCO) operates as a leader in data management and storage solutions optimized for the AI era.
- Headquartered in San Jose, California, the company provides end-to-end platforms for storing, managing, and protecting unstructured data throughout its lifecycle.
-Market Coverage & Business Segments
-Quantum's business is centered on managing complex datasets, particularly video and unstructured data, across several core product categories:
-Secondary Storage: This is the primary driver of product momentum, including platforms such as Scalar tape storage, DXi backup appliances, and ActiveScale object storage.
-Primary Storage & File Systems: High-performance solutions like the StorNext File System, designed for low-latency video and data-intensive workloads.
-AI-Ready Infrastructure: Newer initiatives focus on Myriad All-Flash file and object storage for fueling AI models and building massive, durable data lakes.
-Services & Subscriptions: While transitioning to subscription models, Quantum provides managed services, storage-as-a-service, and professional support plans.
-Sectors Served
+As of 2026, `Quantum Corp (NASDAQ:QMCO)` operates as a leader in data management 
+and storage solutions optimized for the AI era.
+Headquartered in San Jose, `California`, the company provides end-to-end platforms 
+for storing, managing, and protecting unstructured data throughout its lifecycle.
+
+> Market Coverage & Business Segments
+
+Quantum's business is centered on managing complex datasets, particularly video and unstructured data, across several core product 
+
+> categories:
+
+- Secondary Storage: 
+
+This is the primary driver of product momentum, including platforms such 
+as Scalar tape storage, DXi backup appliances, and ActiveScale object storage.
+
+- Primary Storage & File Systems: 
+
+High-performance solutions like the StorNext File System, designed for low-latency 
+video and data-intensive workloads.
+
+- AI-Ready Infrastructure: 
+
+Newer initiatives focus on Myriad All-Flash file and object storage for fueling 
+AI models and building massive, durable data lakes.
+
+> Services & Subscriptions: 
+
+While transitioning to subscription models, Quantum provides managed services, 
+storage-as-a-service, and professional support plans.
+
+> Sectors Served
+
 The company serves a diverse range of data-intensive industries, including:
-Media & Entertainment: Providing "shockproof" workflows for video production.
-Government & Public Sector: Offering secure storage and ransomware recovery solutions.
-Life Sciences & Research: Managing massive datasets for drug discovery and molecular research.
-Enterprise IT & Finance: Supporting backup, archival, and cyber insurance requirements.
-Hyperscale Cloud & Industrial Technology: Supplying modular storage architectures to large-scale data operators.
-Geographical Areas
-Quantum maintains a global presence with offices worldwide and regional operations in:
-Americas: Includes its major corporate and R&D hubs in the United States.
-Europe, Middle East, and Africa (EMEA): Strong demand for secondary storage reported across European markets in 2026.
-Asia-Pacific (APAC): Extensive operations and distribution networks throughout the region.
+
+- Media & Entertainment: 
+
+Providing "shockproof" workflows for video production.
+
+- Government & Public Sector: 
+
+Offering secure storage and ransomware recovery solutions.
+
+- Life Sciences & Research: 
+
+Managing massive datasets for drug discovery and molecular research.
+
+- Enterprise IT & Finance: 
+
+Supporting backup, archival, and cyber insurance requirements.
+
+- Hyperscale Cloud & Industrial Technology: 
+
+Supplying modular storage architectures to large-scale data operators.
+
+> Geographical Areas
+
+Quantum maintains a global presence with offices `worldwide` and regional operations in:
+
+- Americas: 
+
+Includes its major corporate and R&D hubs in the United States.
+
+- Europe, Middle East, and Africa (EMEA): 
+
+Strong demand for secondary storage reported across European markets in 2026.
+
+- Asia-Pacific (APAC): 
+
+Extensive operations and distribution networks throughout the region.
 
 ---
 
