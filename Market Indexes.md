@@ -9,6 +9,46 @@
 2. Which markets and sectors does this index cover?
 
 3. Which markets, sectors and, geographical areas does this index cover?
+
+---
+
+# Health Care
+
+[STXE 600 HEALTH C.PR.EUR](https://www.google.com/finance/beta/quote/SXDP:INDEXSTOXX)
+
+## Which markets, sectors and, geographical areas does "STXE 600 HEALTH C.PR.EUR" cover?
+
+The `STOXX Europe 600 Health Care Index (INDEXSTOXX:SXDP)` is a subset of the broader `STOXX Europe 600 Index`, 
+designed to track the performance of European companies specifically within the healthcare sector.
+
+> Markets and Sectors Covered
+
+The index uses the `Industry Classification Benchmark (ICB)` to categorize companies based on 
+their primary revenue source.
+
+> Sector: 
+
+It exclusively covers the Health Care industry.
+
+> Market Cap: 
+
+It includes a fixed representation of large, mid, and small-capitalization companies.
+
+> Components: 
+
+Major holdings typically include industry leaders such as: 
+
+- Novo Nordisk
+- AstraZeneca 
+- Roche
+- Novartis 
+- GSK
+
+> Geographical Areas
+
+The index covers 17 European countries, representing approximately 90% 
+of the free-float market capitalization of the European stock market.
+
 ---
 
 # What are the most important market indexes for the Global Quantum Computing sector?  
@@ -59,6 +99,9 @@ benchmark for tracking a basket of quantum computing and machine learning stocks
 
 [Quantum Computing Inc](https://www.google.com/finance/beta/quote/QUBT:NASDAQ)  
 
+---
+
+[Defiance Quantum ETF](https://www.google.com/finance/beta/quote/QTUM:NASDAQ)
 
 ---
 
