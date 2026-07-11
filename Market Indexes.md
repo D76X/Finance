@@ -8,7 +8,7 @@
 
 2. Which markets and sectors does this index cover?
 
-3. Which markets, sectors and geographical areas does this index cover?
+3. Which markets, sectors and, geographical areas does this index cover?
 ---
 
 # What are the most important market indexes for the Global Quantum Computing sector?  
@@ -51,77 +51,41 @@ benchmark for tracking a basket of quantum computing and machine learning stocks
 
 ---
 
-[Quantum Corp](https://www.google.com/finance/beta/quote/QMCO:NASDAQ)  
-
----
-
 [S&P Kensho Global Quantum Computing Technologies Index](https://www.google.com/finance/beta/quote/KGQUANTP:INDEXSP): 
 
-> Geographical Coverage
 
-The indices cover approximately 90% of the free-float market capitalization of the following 17 countries
-
-- Major markets are in Europe
-- approximately 90% of the free-float market capitalization of the relevant European investable market
-
-> Sectors
-
-Specifically tracks companies within the Health Care supersector.
-It is a subset of the broader STOXX Europe 600 Index and covers developed markets across 17 European countries, 
-including the United Kingdom, Switzerland, Germany, and France.
-
-- Market and Sector Coverage
-
-Sector Focus: The index exclusively covers companies classified under the Health Care industry 
-according to the Industry Classification Benchmark (ICB).
-
-> Key Components
-
-The index's top holdings typically include major European pharmaceutical and healthcare companies, such as:
-
-- Novartis AG (SWX:NOVN)
-- AstraZeneca PLC (LON:AZN)
-- Roche Holding AG (SWX:ROG)
-- Novo Nordisk A/S (CPH:NOVO-B)
-- GSK PLC (LON:GSK)
 
 ---
 
 [Quantum Computing Inc](https://www.google.com/finance/beta/quote/QUBT:NASDAQ)  
 
-> Geographical Coverage
-The indices cover approximately 90% of the free-float market capitalization of the following 17 countries
 
-- Major markets are in Europe
+---
 
-> Sectors
+[Quantum Corp](https://www.google.com/finance/beta/quote/QMCO:NASDAQ)  
 
-- Quantum Computing & AI: 
+## Which markets, sectors and, geographical areas does Quantum Corp cover?
 
-QCi provides hardware like the Entropy Quantum Computer (EQC) and reservoir computing 
-machines (Emucore and Neurawave) designed for artificial intelligence and machine learning applications.
-
-- Cybersecurity: 
-The company develops quantum authentication products and networks aimed at securing communications.
-
-- Remote Sensing & LiDAR: 
-It produces quantum photonic vibrometers and LiDAR sensing systems that allow for high-fidelity imaging in difficult environments (e.g., fog, ice, or water).
-
-- Semiconductor Foundry Services: 
-Through its facility in Arizona, QCi provides foundry services specializing in thin-film lithium niobate (TFLN) chip development for optical devices.
-
-> Target Industries
-
-QCi leverages its expertise to solve complex optimization and sensing problems across various sectors, including:
-
-- Government & Defense: 
-Providing sensing and secure communication tools.
-
-- Finance: 
-Developing algorithms for portfolio optimization and risk analysis.
-
-- High-Performance Computing: 
-Bridging the gap between classical and quantum computing for data-intensive industries.
+As of 2026, Quantum Corp (NASDAQ:QMCO) operates as a leader in data management and storage solutions optimized for the AI era.
+ Headquartered in San Jose, California, the company provides end-to-end platforms for storing, managing, and protecting unstructured data throughout its lifecycle.
+Market Coverage & Business Segments
+Quantum's business is centered on managing complex datasets, particularly video and unstructured data, across several core product categories:
+Secondary Storage: This is the primary driver of product momentum, including platforms such as Scalar tape storage, DXi backup appliances, and ActiveScale object storage.
+Primary Storage & File Systems: High-performance solutions like the StorNext File System, designed for low-latency video and data-intensive workloads.
+AI-Ready Infrastructure: Newer initiatives focus on Myriad All-Flash file and object storage for fueling AI models and building massive, durable data lakes.
+Services & Subscriptions: While transitioning to subscription models, Quantum provides managed services, storage-as-a-service, and professional support plans.
+Sectors Served
+The company serves a diverse range of data-intensive industries, including:
+Media & Entertainment: Providing "shockproof" workflows for video production.
+Government & Public Sector: Offering secure storage and ransomware recovery solutions.
+Life Sciences & Research: Managing massive datasets for drug discovery and molecular research.
+Enterprise IT & Finance: Supporting backup, archival, and cyber insurance requirements.
+Hyperscale Cloud & Industrial Technology: Supplying modular storage architectures to large-scale data operators.
+Geographical Areas
+Quantum maintains a global presence with offices worldwide and regional operations in:
+Americas: Includes its major corporate and R&D hubs in the United States.
+Europe, Middle East, and Africa (EMEA): Strong demand for secondary storage reported across European markets in 2026.
+Asia-Pacific (APAC): Extensive operations and distribution networks throughout the region.
 
 ---
 
