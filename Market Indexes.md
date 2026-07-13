@@ -51,6 +51,62 @@ of the free-float market capitalization of the European stock market.
 
 ---
 
+# What are the most important market indexes for the Global Digital Security sector?  
+
+The most important market indexes for the global digital security and cybersecurity sector 
+track the performance of leading companies involved in data safeguarding, access control, 
+and network protection. These indexes are primarily utilized as benchmarks for thematic ETFs
+
+- [Nasdaq CTA Cybersecurity Index: ](https://www.google.com/finance/beta/quote/NQCYBR:INDEXNASDAQ)
+
+Tracks companies engaged in building, implementing, and managing security protocols for private and public networks. 
+It is the underlying benchmark for major funds like the First Trust Nasdaq Cybersecurity ETF (CIBR).
+
+- [ISE Cyber Security Index (HACK)](https://www.google.com/finance/beta/quote/HXR:INDEXNASDAQ): 
+AS
+[L&G Cyber Security UCITS ETF USD Acc](https://www.google.com/finance/beta/quote/ISPY:LON)
+
+One of the oldest and most widely tracked benchmarks for the industry, containing a diverse mix 
+of software developers and hardware manufacturers.
+
+- STOXX Global Digital Security Index: 
+AS
+[iShares Digital Security UCITS ETF USD (Acc)](https://www.google.com/finance/beta/quote/LOCK:LON)  
+
+Focuses on companies heavily exposed to digital data security and physical access control. 
+It serves as the benchmark for the `iShares Digital Security UCITS ETF (LOCK)`.
+
+- [S&P Kensho Cyber Security Index](https://www.google.com/finance/beta/quote/KCYBERP:INDEXSP): 
+
+Employs artificial intelligence and algorithmic screening to capture companies across 
+the "criminology and digital security" domain.
+
+- MSCI ACWI IMI Cyber Security Index: 
+
+
+Measures large, mid, and small-cap companies across the globe that provide 
+advanced cybersecurity products and services.
+
+---
+
+# What are the most important market indexes for the European Quantum Computing sector?  
+
+The European quantum computing sector does not yet have its own standalone, geographically 
+isolated regional stock index. Instead, European investors track the sector through global 
+indexes that heavily feature European hardware developers, IP patent holders, and enabling 
+tech companies
+
+---
+
+# What are the most important market indexes for the Asian Quantum Computing sector?  
+
+There is currently no single, pure-play market index dedicated exclusively to the 
+Asian Quantum Computing sector. Instead, Asian quantum tech is tracked through global 
+thematic quantum indexes, broad Asian tech benchmarks, and national indices holding 
+key quantum conglomerates.
+
+---
+
 # What are the most important market indexes for the Global Quantum Computing sector?  
 
 The most prominent market indexes for the global quantum computing sector 
@@ -88,6 +144,10 @@ benchmark for tracking a basket of quantum computing and machine learning stocks
 ---
 
 # Quantum Sector ETFs
+
+Are ETF for the Quantum Computing sector specific for the European market?
+
+---
 
 [Defiance Quantum ETF](https://www.google.com/finance/beta/quote/QTUM:NASDAQ)
 
