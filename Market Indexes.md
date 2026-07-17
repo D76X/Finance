@@ -53,7 +53,15 @@ of the free-float market capitalization of the European stock market.
 
 # What are the most important market indexes for the USA Digital Security sector?  
 
-Key Market IndexesNasdaq CTA Cybersecurity Index: This is the most widely followed benchmark for the industry. It includes companies primarily engaged in building and managing security protocols for private and public networks. It is tracked by major investment funds like the First Trust Nasdaq Cybersecurity ETF.ISE Cyber Security Index: This benchmark follows companies actively involved in providing cybersecurity technology and services, ranging from threat detection software to secure data transmission.S&P Kensho Cyber Security Index: This index uses artificial intelligence to identify and track firms specifically focused on the cybersecurity sector.Typical Top HoldingsWhile index rules change slightly, all of these benchmarks focus on the same core group of industry leaders. Their largest holdings typically feature exact names such as:Palo Alto Networks \(\text{(PANW)}\)CrowdStrike Holdings \(\text{(CRWD)}\)Fortinet \(\text{(FTNT)}\)Cloudflare \(\text{(NET)}\)How to Track ThemInvestors usually follow these indexes by looking at specific exchange-traded funds (ETFs) that mirror their performance. For example, you can use the ETF Database to find and compare funds based on these major indexes to see their current prices and daily market movements.
+Key Market Indexes
+
+- [Nasdaq CTA Cybersecurity Index](https://www.google.com/finance/beta/quote/NQCYBR:INDEXNASDAQ): 
+ALSO AS
+[First Trust NASDAQ Cybersecurity ETF](https://www.google.com/finance/beta/quote/CIBR:NASDAQ)  
+
+- [ISE Cyber Security Index](https://www.google.com/finance/beta/quote/HXR:INDEXNASDAQ): 
+
+- [S&P Kensho Cyber Security Index](https://www.google.com/finance/beta/quote/KCYBERP:INDEXSP) 
 
 ---
 
