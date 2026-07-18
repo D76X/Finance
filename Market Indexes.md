@@ -12,7 +12,7 @@
 
 ---
 
-# Health Care
+# Health Care and Medical
 
 [STXE 600 HEALTH C.PR.EUR](https://www.google.com/finance/beta/quote/SXDP:INDEXSTOXX)
 
@@ -48,6 +48,130 @@ Major holdings typically include industry leaders such as:
 
 The index covers 17 European countries, representing approximately 90% 
 of the free-float market capitalization of the European stock market.
+
+---
+
+# What are the most important market indexes for the Global Consumer sector?  
+
+The global consumer sector is primarily divided into two key segments: 
+
+1. Consumer Discretionary (non-essential goods)  
+2. Consumer Staples (essential everyday goods). 
+
+The most important and widely tracked global market indexes for these sectors are provided 
+by major index families like MSCI, S&P Dow Jones, and STOXX.
+
+# What are the most important Consumer Discretionary market indexes for the Asian region?
+# What are the most important Consumer Discretionary market indexes for the European region?  
+# What are the most important Consumer Discretionary market indexes for the USA region?
+
+1. Asian Region
+
+- MSCI AC Asia Pacific Consumer Discretionary Index: 
+
+The premier benchmark for both developed and emerging Asian markets, 
+dominated by major Japanese and Chinese companies.
+
+> Which ETF tracks the MSCI AC Asia Pacific Consumer Discretionary?
+
+There are currently no ETFs exclusively dedicated to tracking the 
+`MSCI AC Asia Pacific Consumer Discretionary index.`
+
+2. European Region
+
+- STOXX Europe 600 Industry Consumer Discretionary Index: 
+
+The primary index tracking large, mid, and small-cap discretionary companies 
+across 16+ European countries.
+
+> Which ETF track the STOXX Europe 600 Industry Consumer Discretionary Index?
+The Amundi STOXX Europe 600 Consumer Discretionary UCITS ETF 
+is the primary fund tracking the STOXX Europe 600 Industry Consumer 
+Discretionary 30-15 Index.
+
+STOXX Europe 600 Industry Consumer Discretionary 30-15 Index: 
+
+A widely utilized variant that caps the largest company at 30% and 
+others at 15% to diversify exposure.
+
+3. USA Region
+
+[S&P 500 Consumer Discretionary Select Sector Index](https://www.google.com/finance/beta/quote/IXY:INDEXSP): 
+
+The definitive benchmark for US discretionary and retail stocks, 
+commonly tracked via the XLV (or equivalent UCITS) ETFs.
+
+[S&P 500 Capped 35/20 Consumer Discretionary Index](https://www.google.com/finance/beta/quote/SPSVCDN:INDEXSP): 
+
+A structural adaptation of the S&P 500 that ensures compliance with investment 
+regulations by capping maximum constituent weights.
+
+---
+
+# Consumer Discretionary (non-essential goods) 
+
+These indexes track companies that sell: luxury goods, automobiles apparel, retail, and entertainment, 
+which **perform best during strong economic periods**.
+
+- MSCI World Consumer Discretionary Index: 
+Tracks large and mid-cap discretionary stocks across global developed markets.
+AS
+[Xtrackers MSCI World Consumer Discretionary UCITS 1C ETF](https://www.google.com/finance/beta/quote/XWDS:LON)   
+
+- [S&P Global 1200 Consumer Discretionary Index](https://www.google.com/finance/beta/quote/SPG1200-25:INDEXSP): 
+
+Measures the performance of leading consumer discretionary companies globally, 
+highly weighted by US giants like Amazon.
+The S&P Global 1200 - Consumer Discretionary (Sector) (INDEXSP:SPG1200-25) is 
+a sub-index of the S&P Global 1200 that focuses on large-cap companies within 
+the consumer discretionary sector across major global markets.
+
+The index covers 31 countries and approximately 70% of the global stock 
+market capitalization. It is a composite of seven regional benchmarks.
+
+Sectors and Markets Covered
+
+The index specifically targets the Consumer Discretionary sector as defined by the 
+`Global Industry Classification Standard (GICS)`.
+
+This sector includes companies whose businesses are sensitive to economic cycles, such as:
+- Automotive: Automobile manufacturers and components.
+- Household Durable Goods: Homebuilding and appliances.
+- Leisure & Hospitality: Hotels, restaurants, and leisure facilities.
+- Retailing: Multiline retail and specialty retail (including e-commerce).
+- Media & Entertainment: Media, movies, and interactive home entertainment.
+
+- [S&P 500 Consumer Discretionary Index](https://www.google.com/finance/beta/quote/SP500-25:INDEXSP): 
+Focuses strictly on US-based discretionary giants.
+
+---
+
+# Consumer Staples (essential everyday goods). 
+
+These indexes track companies that produce food, beverages, tobacco, and household goods, 
+which **remain in demand regardless of economic downturns**.
+
+- `MSCI World Consumer Staples Index`: 
+AS
+[Xtrackers MSCI World Consumer Staples UCITS ETF 1C](https://www.google.com/finance/beta/quote/XWCS:LON)    
+[StSt SPDR MSCI World Consumer Staples UCITS ETF](https://www.google.com/finance/beta/quote/WCOS:LON)  
+[Fidelity MSCI Consumer Staples Index ETF](https://www.google.com/finance/beta/quote/FSTA:NYSEARCA)  
+
+Measures the performance of staples companies across global developed markets.
+
+- [S&P Global 1200 Consumer Staples Index](https://www.google.com/finance/beta/quote/SPG1200-30:INDEXSP): 
+
+A comprehensive benchmark of the world's largest consumer staples and essential-goods corporations.
+
+- [Consumer Staples Select Sector Index](https://www.google.com/finance/beta/quote/IXR:INDEXSP): 
+
+Tracks the consumer staples companies within the S&P 500 in the United States.
+
+---
+
+# What are the most important Consumer Staples market indexes for the Asian region?
+# What are the most important Consumer Staples market indexes for the European region?  
+# What are the most important Consumer Staples market indexes for the USA region?
 
 ---
 
