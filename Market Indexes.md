@@ -12,6 +12,94 @@
 
 ---
 
+# Commodities
+
+[S&P GSCI Agriculture](https://www.google.com/finance/beta/quote/SPGSAG:INDEXSP)
+
+The S&P GSCI Agriculture index (INDEXSP:SPGSAG) is a global benchmark designed to track the performance of the agricultural commodity market on a world-wide scale.
+Rather than being restricted to a single geographic area, the index incorporates commodities based on their global production significance.
+ Its components currently include:
+Grains: Wheat (Chicago and Kansas), Corn, and Soybeans.
+Softs: Coffee, Sugar, Cocoa, and Cotton.
+The index uses world production averages (WPA) to determine the weight of each commodity, ensuring it reflects the relative importance of these products to the global economy.
+ While the futures contracts themselves are often traded on major exchanges such as the CME Group (CBOT) and ICE Futures U.S., they serve as proxies for the global supply and demand of these essential agricultural goods
+
+---
+
+# Chemical Sector
+
+# What are the most important market indexes for the Asian Chemical sector? 
+# What are the most important market indexes for the European Chemical sector? 
+
+## European Chemical Sector
+
+- [STOXX Europe 600 Chemicals](https://www.google.com/finance/beta/quote/SX4P:INDEXSTOXX): 
+- MSCI Europe Chemicals Index: 
+
+## Asian Chemical Sector
+
+- [Nasdaq EM Asia Chemicals Index](https://www.google.com/finance/beta/quote/NQEMASIA5520:INDEXNASDAQ)
+- STOXX Asia/Pacific 600 Chemicals
+- Hang Seng China A Specialty Chemicals Index
+
+---
+
+# What are the most important market indexes for the Global Chemical sector? 
+
+The most important market indexes for the global chemical sector include global, regional, and 
+sub-industry benchmarks that track companies ranging from commodity and specialty chemicals to 
+agricultural chemicals and industrial gases.
+
+## Global Benchmarks
+
+- MSCI ACWI Chemicals Index: 
+
+Tracks large and mid-cap chemical companies across both developed and emerging markets worldwide, 
+serving as the most comprehensive benchmark for global chemical equities.
+
+- STOXX Global 1800 Chemicals: 
+
+Measures the performance of the chemical components within the broader STOXX Global 1800 Index, 
+representing major global markets.
+
+## North American Benchmarks
+
+- [S&P 500 Chemicals Index](https://www.google.com/finance/beta/quote/SP500-151010:INDEXSP): 
+
+Focuses on the largest chemical companies listed in the United States, providing a clear picture 
+of the North American industry's health.
+
+- [Dow Jones U.S. Chemicals Index](https://www.google.com/finance/beta/quote/DJUSCH:INDEXDJX): 
+
+Tracks the performance of US-based chemical manufacturers and is frequently 
+used to gauge the sector's localized market momentum.
+
+# European & Regional Benchmarks
+
+- [STOXX Europe 600 Chemicals](https://www.google.com/finance/beta/quote/SX4P:INDEXSTOXX): 
+
+Tracks large and mid-sized chemical companies across 17 European countries. 
+It is highly sensitive to fluctuations in global trade and regional energy costs.
+
+- MSCI Europe Chemicals Index: 
+
+A specialized index capturing the European subset of global chemical equities.
+
+# Sub-Industry Specific Indexes
+
+Because the chemical industry is highly diversified, indexes are often broken down into specialized categories by organizations like S&P:
+
+- S&P 500 Specialty Chemicals Sub-Industry Index: 
+Tracks companies that produce advanced, value-added products.
+
+- S&P 500 Commodity Chemicals Sub-Industry Index: 
+Tracks manufacturers of bulk, base, and commodity chemicals.
+
+- S&P 500 Fertilizers & Agricultural Chemicals Sub-Industry Index: 
+Follows major companies involved in crop nutrients and agrochemicals.
+
+---
+
 # Health Care and Medical
 
 # What are the most important market indexes for the Aisan Health Care and Medical sector?  
@@ -69,7 +157,12 @@ The institutional standard for tracking large and mid-cap healthcare companies a
 
 - [STOXX Europe 600 Health Care](https://www.google.com/finance/beta/quote/SXDP:INDEXSTOXX): 
 
-A highly liquid and widely referenced index that represents the largest healthcare companies within the broader STOXX Europe 600.EURO STOXX Total Market Health Care: Tracks the performance of healthcare and medical businesses operating strictly within the Eurozone.
+A highly liquid and widely referenced index that represents the largest healthcare 
+companies within the broader STOXX Europe 600.
+
+- EURO STOXX Total Market Health Care: 
+
+Tracks the performance of healthcare and medical businesses operating strictly within the Eurozone.
 
 ---
 
