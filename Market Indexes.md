@@ -26,6 +26,14 @@ The index uses world production averages (WPA) to determine the weight of each c
 
 ---
 
+# Hydrogen Sector
+
+# What are the most important market indexes for the Global Hydrogen sector? 
+
+The most important market indexes for the global hydrogen sector include the following key benchmarks, which track the performance of companies across the entire hydrogen value chain:Solactive Hydrogen Economy Index: Tracks the performance of global companies active across the hydrogen value chain, including production, transportation, and fuel cells. It is the benchmark for major funds like the L&G Hydrogen Economy UCITS ETF and the Global X Hydrogen ETF.MVIS Global Hydrogen Economy ESG Index: Tracks the performance of the largest and most liquid companies in the hydrogen industry with a strict ESG screening filter. It serves as the underlying index for the VanEck Hydrogen Economy ETF.S&P Kensho Global Hydrogen Economy Index: Focuses on global equities driving the transition to a hydrogen economy, providing a specialized look at pure-play producers and related infrastructure companies.HYDRIX: Published weekly by the European Energy Exchange (EEX), this is the first market-based price index dedicated to the spot trading value of green hydrogen.
+
+---
+
 # Chemical Sector
 
 # What are the most important market indexes for the Asian Chemical sector? 
