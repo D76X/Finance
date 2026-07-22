@@ -30,7 +30,86 @@ The index uses world production averages (WPA) to determine the weight of each c
 
 # What are the most important market indexes for the Global Hydrogen sector? 
 
-The most important market indexes for the global hydrogen sector include the following key benchmarks, which track the performance of companies across the entire hydrogen value chain:Solactive Hydrogen Economy Index: Tracks the performance of global companies active across the hydrogen value chain, including production, transportation, and fuel cells. It is the benchmark for major funds like the L&G Hydrogen Economy UCITS ETF and the Global X Hydrogen ETF.MVIS Global Hydrogen Economy ESG Index: Tracks the performance of the largest and most liquid companies in the hydrogen industry with a strict ESG screening filter. It serves as the underlying index for the VanEck Hydrogen Economy ETF.S&P Kensho Global Hydrogen Economy Index: Focuses on global equities driving the transition to a hydrogen economy, providing a specialized look at pure-play producers and related infrastructure companies.HYDRIX: Published weekly by the European Energy Exchange (EEX), this is the first market-based price index dedicated to the spot trading value of green hydrogen.
+The most important market indexes for the global hydrogen sector include the following key benchmarks, 
+which track the performance of companies across the entire hydrogen value chain:
+
+- Solactive Hydrogen Economy Index: 
+AS
+[L&G Hydrogen Economy UCITS ETF USD Acc](https://www.google.com/finance/beta/quote/HTWO:LON)   
+
+Tracks the performance of global companies active across the hydrogen value chain, including production, 
+transportation, and fuel cells. It is the benchmark for major funds like the `L&G Hydrogen Economy UCITS ETF` 
+and the `Global X Hydrogen ETF`.
+
+MVIS Global Hydrogen Economy ESG Index: Tracks the performance of the largest and most liquid companies in the hydrogen industry with a strict ESG screening filter. It serves as the underlying index for the VanEck Hydrogen Economy ETF.S&P Kensho Global Hydrogen Economy Index: Focuses on global equities driving the transition to a hydrogen economy, providing a specialized look at pure-play producers and related infrastructure companies.HYDRIX: Published weekly by the European Energy Exchange (EEX), this is the first market-based price index dedicated to the spot trading value of green hydrogen.
+
+---
+
+## Which markets, sectors and, geographical areas does "L&G Hydrogen Economy UCITS ETF USD Acc" cover?
+
+[L&G Hydrogen Economy UCITS ETF USD Acc](https://www.google.com/finance/beta/quote/HTWO:LON)   
+
+The `L&G Hydrogen Economy UCITS ETF USD Acc` tracks:
+
+- `Solactive Hydrogen Economy Index NTR` 
+
+providing targeted exposure to the global hydrogen value chain.
+
+> Markets & Sectors
+
+The fund focuses on companies worldwide that are actively engaged in the "hydrogen economy".
+
+This thematic focus spans several key industrial sectors:
+
+- Industrials (~49%–53%): The largest sector, including manufacturers of electrolysers, fuel cells, and hydrogen-powered transportation.
+- Basic Materials (~25%–28%): Focuses on industrial gas producers and specialized material providers.
+- Utilities (~10%–12%): Companies involved in energy generation and distribution.
+- Consumer Cyclical (~10%–12%): Primarily includes automotive manufacturers developing hydrogen fuel cell technology, such as Hyundai Motor Co.
+
+> Geographical Areas
+
+The ETF is globally diversified, with significant holdings in several key developed markets:
+
+- North America: High concentration in the United States, featuring major holdings like FuelCell Energy Inc., Bloom Energy Corp., and Cummins Inc..
+- Asia: Significant exposure to Japan (e.g., Kyocera Corp., Nippon Sanso Holdings) and South Korea (e.g., Hyundai Motor Co.).
+- Europe: Includes companies from Spain (Iberdrola SA), France (Air Liquide SA), Sweden (Atlas Copco AB), and Germany (Siemens Energy AG).
+
+---
+
+## Which markets, sectors and, geographical areas does "S&P Kensho Hydrogen Economy Index (USD)" cover?
+
+[S&P Kensho Hydrogen Economy Index (USD)](https://www.google.com/finance/beta/quote/KHEUP:INDEXSP)  
+
+`INDEXSP:KHEUP` is a thematic index that tracks the full value chain of the hydrogen economy. 
+It includes companies involved in the production, storage, transportation, and utilization of 
+hydrogen as a clean energy source.
+
+> Markets and Sectors Covered
+
+- Industrials (60.0%): Companies manufacturing fuel cells, hydrogen production equipment, and specialized storage solutions.
+- Materials (18.9%): Specialty chemical and gas companies (e.g., Linde plc) that produce and liquefy hydrogen.
+- Energy (12.0%): Companies focusing on renewable energy integration for green hydrogen production.
+- Other Segments: Utilities and Consumer Discretionary firms involved in hydrogen-related infrastructure or transportation technologies.
+
+> Geographical Areas
+
+The index is global in scope, measuring the performance of hydrogen-focused companies across both 
+developed and emerging markets.
+
+As of 2026, the primary country concentrations include:
+
+- United States: Historically the largest weight (approx. 36.6%).
+- Asia-Pacific: Significant representation from Japan (10.1%), India (6.3%), South Korea, and China.
+- Europe: Major holdings in France (9.4%), the United Kingdom (5.8%), and other European nations.
+
+> Value Chain Focus
+
+The index specifically targets four key areas:
+
+1. Production: All methods, including green hydrogen from electrolysis.
+2. Liquefaction and Transportation: Services and technology enabling the movement of hydrogen.
+3. Storage: Advanced storage technologies for industrial and transport use.
+4. Fuel Cells: Design, manufacture, and distribution of fuel cell units.
 
 ---
 
