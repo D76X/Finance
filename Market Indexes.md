@@ -14,6 +14,70 @@
 
 # Commodities
 
+[The best commodity ETFs](https://www.justetf.com/en/how-to/invest-in-commodities.html)   
+
+# What are the most popular ETFs in the Commodities sector? 
+
+The most popular commodity ETFs include broad-basket funds offering diversified 
+exposure and specialized funds targeting precious metals or energy. 
+
+Top picks differ based on asset size, trading volume, and fund structure:
+
+## Broad Commodities: 
+
+- Invesco DB Commodity Index Tracking Fund (DBC) 
+- Invesco Optimum Yield Diversified Commodity Strategy No K-1 ETF (PDBC) 
+
+these are the largest broad-basket options
+
+## Gold (Precious Metals): 
+
+- SPDR Gold Shares (GLD) 
+
+this is the largest and most heavily traded gold ETF worldwide.
+
+## Energy: 
+
+- United States Oil Fund (USO) 
+
+this is the most popular fund tracking the daily price changes of crude oil.
+
+---
+
+# What are the most important market indexes for the Commodities sector? 
+
+The most important global market indexes for the commodities sector are:
+
+- S&P GSCI (Goldman Sachs Commodity Index): 
+
+A production-weighted index heavily driven by the energy sector (over 50% allocation), 
+making it a key barometer for global industrial and fuel demand.
+
+- Bloomberg Commodity Index (BCOM): 
+
+A broadly diversified, highly liquid index that caps the weightings of any single commodity, 
+ensuring balanced representation across 
+
+- energy
+- agriculture
+- metals
+
+- FTSE CoreCommodity CRB Index: 
+
+One of the longest-standing benchmarks, tracking a basket of 19 commodities with a specific 
+focus on precious 
+
+- metals 
+- industrial materials 
+- agriculture.
+
+- Rogers International Commodity Index (RICI): 
+
+Created by investor Jim Rogers, this index places a heavier emphasis on agricultural and 
+consumable goods compared to other major benchmarks.
+
+---
+
 [S&P GSCI Agriculture](https://www.google.com/finance/beta/quote/SPGSAG:INDEXSP)
 
 The S&P GSCI Agriculture index (INDEXSP:SPGSAG) is a global benchmark designed to track the performance of the agricultural commodity market on a world-wide scale.
@@ -28,6 +92,13 @@ The index uses world production averages (WPA) to determine the weight of each c
 
 # Hydrogen Sector
 
+# What are the most important market indexes for the Asian Hydrogen sector? 
+# What are the most important market indexes for the European Hydrogen sector? 
+
+None
+
+---
+
 # What are the most important market indexes for the Global Hydrogen sector? 
 
 The most important market indexes for the global hydrogen sector include the following key benchmarks, 
@@ -36,12 +107,60 @@ which track the performance of companies across the entire hydrogen value chain:
 - Solactive Hydrogen Economy Index: 
 AS
 [L&G Hydrogen Economy UCITS ETF USD Acc](https://www.google.com/finance/beta/quote/HTWO:LON)   
+[Global X Hydrogen ETF](https://www.google.com/finance/beta/quote/HYDR:NASDAQ)  
 
 Tracks the performance of global companies active across the hydrogen value chain, including production, 
 transportation, and fuel cells. It is the benchmark for major funds like the `L&G Hydrogen Economy UCITS ETF` 
 and the `Global X Hydrogen ETF`.
 
-MVIS Global Hydrogen Economy ESG Index: Tracks the performance of the largest and most liquid companies in the hydrogen industry with a strict ESG screening filter. It serves as the underlying index for the VanEck Hydrogen Economy ETF.S&P Kensho Global Hydrogen Economy Index: Focuses on global equities driving the transition to a hydrogen economy, providing a specialized look at pure-play producers and related infrastructure companies.HYDRIX: Published weekly by the European Energy Exchange (EEX), this is the first market-based price index dedicated to the spot trading value of green hydrogen.
+- MVIS Global Hydrogen Economy ESG Index: 
+
+Tracks the performance of the largest and most liquid companies in the hydrogen industry 
+with a strict ESG screening filter. It serves as the underlying index for the 
+[VanEck Hydrogen Economy ETF](https://www.google.com/finance/beta/quote/HDRO:LON).
+
+- S&P Kensho Global Hydrogen Economy Index: 
+[S&P Kensho Hydrogen Economy Index (USD)](https://www.google.com/finance/beta/quote/KHEUP:INDEXSP)  
+
+Focuses on global equities driving the transition to a hydrogen economy, providing a 
+specialized look at pure-play producers and related infrastructure companies.
+
+HYDRIX: 
+Published weekly by the European Energy Exchange (EEX), this is the first market-based price index 
+dedicated to the spot trading value of green hydrogen.
+
+---
+
+## Which markets, sectors and, geographical areas does "VanEck Hydrogen Economy ETF" cover?
+
+[VanEck Hydrogen Economy ETF](https://www.google.com/finance/beta/quote/HDRO:LON)
+
+`LON:HDRO` provides global exposure to companies at the forefront of the emerging hydrogen economy.
+
+It focuses on firms that derive a significant portion of their revenue from hydrogen projects, 
+fuel cells, or industrial gases.
+
+> Market and Sector Coverage
+
+The ETF targets the entire hydrogen ecosystem through two primary categories:
+
+- Pure-Play Hydrogen Companies: Focused on hydrogen production, storage, and distribution (e.g., Plug Power, Ballard Power Systems, and Nel).
+- Industrial Gas Giants: Established companies that produce hydrogen as a core part of their business, such as Linde and Air Products.
+
+Based on broad industry classifications, the fund is heavily weighted toward two main sectors:
+
+- Basic Materials: Approximately 50.14%
+- Industrials: Approximately 49.16%
+
+> Geographical Areas
+
+The fund is globally diversified, investing in both developed and emerging markets.
+Major country allocations as of mid-2026 include:
+
+- United States: (e.g., Bloom Energy, Plug Power)
+- Japan: (e.g., Nippon Sanso, Mitsubishi Chemical)
+- Europe: France (Air Liquide), Italy (Sol Spa), Norway (Nel Asa), and the UK (Ceres Power)
+- Asia Pacific: South Korea (Doosan Fuel Cell) and China (Shanghai Refire Group)
 
 ---
 
