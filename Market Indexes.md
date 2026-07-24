@@ -15,6 +15,7 @@
 # Commodities
 
 [The best commodity ETFs](https://www.justetf.com/en/how-to/invest-in-commodities.html)   
+[3 Commodities ETFs and Why You Shouldn't Invest in Them Optimized Portfolio](https://www.youtube.com/watch?v=V_iLwhKSH2E)   
 
 # What are the most popular ETFs in the Commodities sector? 
 
@@ -41,6 +42,26 @@ this is the largest and most heavily traded gold ETF worldwide.
 - United States Oil Fund (USO) 
 
 this is the most popular fund tracking the daily price changes of crude oil.
+
+---
+
+# Commodities ETFs
+
+1. `DBIQ Optimum Yield Diversified Commodity Index Excess Return`
+AS
+[Invesco Optimum Yld Dvsfd Cmd Str No K-1 ETF](https://www.google.com/finance/beta/quote/PDBC:NASDAQ)
+`NASDAQ:PDBC`  
+
+2. `S&P GSCI Dynamic Roll`
+AS
+[iShares GSCI Commodity Dynamic Roll Strategy ETF](https://www.google.com/finance/beta/quote/COMT:NASDAQ)  
+`NASDAQ:COMT`
+
+3. `Bloomberg Commodity Index`
+AS
+[abrdn Bloomberg All Commodity Strat K-1 Free ETF](https://www.google.com/finance/beta/quote/BCI:NYSEARCA)  
+`NYSEARCA:BCI`  
+
 
 ---
 
@@ -1566,7 +1587,7 @@ While not a pure energy play, it selects the top 50% of companies
 in each GICS sector based on climate transition risk, providing 
 exposure to energy transition themes across Asia.
 
-- iShares MSCI All Country Asia ex Japan ETF (NASDAQ:AAXJ): 
+- [iShares MSCI All Country Asia ex Japan ETF (NASDAQ:AAXJ)](https://www.google.com/finance/beta/quote/AAXJ:NASDAQ): 
 
 A broad regional fund that includes significant exposure to major 
 Asian energy constituents like Reliance Industries (NSE:RELIANCE).
@@ -2563,7 +2584,7 @@ exposure.
 
 ---
 
-# Aisan Global Indexes
+# Asian Global Indexes
 
 - FTSE ASEAN Index Series: 
 
@@ -2606,5 +2627,158 @@ Dominated by major regional banks such as
 Captures large- and mid-cap companies across the major ASEAN financial markets 
 (Malaysia, Indonesia, Philippines, Singapore, Thailand). It is highly useful for tracking 
 supply chain shifts and localized industrial output.
+
+---
+
+[S&P China A 50 Index (CNY)](https://www.google.com/finance/beta/quote/SPC50:INDEXSP)   
+
+## Which geographies, markets and sectors doe "S&P China A 50 Index (CNY)" cover?
+
+The S&P China A 50 Index (CNY) covers the following areas:
+
+- Geography: It focuses entirely on Mainland China.
+
+- Markets: It targets the domestic China A-Shares universe.
+
+These are companies incorporated in mainland China and traded on the 
+Shanghai and Shenzhen stock exchanges, quoted in Renminbi (CNY).
+
+- Sectors: 
+
+It represents a broad selection of the largest and most liquid mega-cap c
+ompanies across the domestic market.
+ 
+As a subset of the `S&P China A 300 Index`, it filters the top 50 tradeable 
+stocks to provide a balanced macro-representation of the overall Chinese 
+economic sectors
+
+---
+
+[S&P China A 300 Index (CNY)](https://www.google.com/finance/beta/quote/SPC300:INDEXSP)  
+
+---
+
+- [iShares MSCI All Country Asia ex Japan ETF (NASDAQ:AAXJ)](https://www.google.com/finance/beta/quote/AAXJ:NASDAQ): 
+
+A broad regional fund that includes significant exposure to major 
+Asian energy constituents like Reliance Industries (NSE:RELIANCE).
+
+---
+
+# Europe Global Indexes
+
+## Which are the most important Europe Global Indexes?
+
+The most important broad European stock market indexes are the 
+
+- STOXX Europe 600
+- EURO STOXX 50
+- MSCI Europe
+
+These benchmarks track the performance of top companies across the continent.
+
+## Broad European Indexes
+
+- [STOXX Europe 600](https://www.google.com/finance/beta/quote/SXXP:INDEXSTOXX) : 
+
+Tracks 600 large, mid, and small companies across 17 European nations. 
+
+It is viewed as Europe's equivalent to the U.S. S&P 500
+
+- [EURO STOXX 50](https://www.google.com/finance/beta/quote/SX5E:INDEXSTOXX): 
+
+Follows 50 major blue-chip companies inside the Eurozone.
+
+MSCI Europe: Covers hundreds of large and mid-cap stocks across developed European markets. It is widely used by global equity funds.Major Country IndexesDAX 40: Tracks the 40 largest major companies on the Frankfurt Stock Exchange in Germany.FTSE 100: Follows the 100 biggest companies listed on the London Stock Exchange in the UK.CAC 40: Measures 40 leading stocks on the Euronext Paris exchange in France.FTSE MIB: Serves as the primary benchmark index for Borsa Italiana in Italy.
+
+---
+
+[S&P Europe 350 Scored & Screened Index (EUR)](https://www.google.com/finance/beta/quote/SPEESEP:INDEXSP)
+
+## Which geographies, markets, and sectors does the "S&P Europe 350 Scored & Screened Index (EUR)" cover?
+
+The `S&P Europe 350 Scored & Screened Index (EUR)` (formerly known as the `S&P Europe 350 ESG Index`)
+covers the following parameters based on its underlying parent index, the S&P Europe 350:
+
+- Geographies & Markets: 
+
+It is a pan-European index covering developed markets across 16 major European countries.
+This includes companies domiciled and listed in both Eurozone and non-Eurozone developed 
+markets (such as the United Kingdom and Switzerland).
+
+- Sectors: 
+
+It encompasses all 11 Global Industry Classification Standard (GICS) sectors.
+The index is constructed to target 75% of the float-adjusted market capitalization 
+of each GICS Industry Group within the parent index, maintaining a similar sector 
+risk profile while filtering out companies based on ESG scores and business activity exclusions.
+
+---
+
+[STOXX Europe 600](https://www.google.com/finance/beta/quote/SXXP:INDEXSTOXX)  
+
+## Which geographies, markets, and sectors does the "STOXX Europe 600" cover?
+
+The `STOXX Europe 600 (INDEXSTOXX:SXXP)` is a broad-market benchmark that represents 
+the performance of large, mid, and small-capitalization companies across European equity 
+markets.
+
+1. Geographies and Markets
+
+The index covers 17 countries within Europe's developed economies, capturing approximately 90% 
+of the underlying investable market cap:
+
+Austria, Belgium, Denmark, Finland, France, Germany, Ireland, Italy, Luxembourg, Netherlands, Norway, Poland, Portugal, Spain, Sweden, Switzerland, and the United Kingdom.
+
+2. Sectors and Industries
+
+Companies are categorized using the Industry Classification Benchmark (ICB) standards.
+It provides extensive coverage across 11 core industries and 20 supersectors,
+
+including:
+
+- Industrial Goods and Services
+- Banks & Financial Services
+- Health Care
+- Technology & Telecommunications
+- Insurance
+- Food, Beverage and Tobacco
+- Energy & Utilities
+- Consumer Products and Services
+- Basic Resources & Chemicals
+- Construction & Materials
+- Real Estate
+- Media & Retail
+- Travel and Leisure
+
+---
+
+# USA Global Indexes
+
+## Which are the most important US Global Indices?
+
+The most important U.S. stock market benchmarks with global impact are the S&P 500, the Dow Jones Industrial Average, and the Nasdaq Composite. Because U.S. markets drive world finance, these indices serve as core health checks for the global economy.
+
+## Major U.S. Benchmarks
+
+- [S&P 500](https://www.google.com/finance/beta/quote/.INX:INDEXSP)  
+
+Tracks 500 of the largest public companies in the U.S. 
+It is the top global gauge for large-cap equity performance.
+
+- [Dow Jones Industrial Average (DJIA)](https://www.google.com/finance/beta/quote/.DJI:INDEXDJX): 
+
+Follows 30 major blue-chip U.S. industrial and consumer firms. 
+It is one of the oldest and most recognized economic barometers.
+
+- [Nasdaq Composite](https://www.google.com/finance/beta/quote/.IXIC:INDEXNASDAQ) AKA `Nasdaq 100`
+
+Measures stocks listed on the Nasdaq exchange, dominated heavily 
+by global technology and growth giants.
+
+- [Russell 2000](https://www.google.com/finance/beta/quote/RUT:INDEXRUSSELL): 
+
+Focuses on U.S. small-cap and medium-cap companies [0.7]. 
+It acts as a key indicator for domestic economic health and investor risk appetite [0.7].
 
 ---
