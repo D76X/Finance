@@ -4,7 +4,6 @@
 
 [Guide to Google Finance API and Alternatives](https://scrapfly.io/blog/posts/guide-to-google-finance-api)  
 
-
 ---
 
 # Google Sheets GOOGLEFINANCE function 
