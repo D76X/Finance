@@ -164,3 +164,4 @@ Il tecnico dovrà effettuare un accesso agli atti in Comune per verificare lo
 stato legittimato dell'immobile e consultare le norme tecniche del Piano Regolatore locale.
 
 ---
+
