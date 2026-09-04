@@ -1,6 +1,23 @@
 # BROKERS
 
+[What is the BEST Broker in Managed Regime? (2025-2026) Davide Ravera, CFA](https://www.youtube.com/watch?v=lDkd5rfyhZk)  
+
+---
+
+DIRECTA
+
 [DIRECTA è il Miglior Broker per Investire? (Recensione Imparziale) Davide Ravera, CFA](https://www.youtube.com/watch?v=rw_ZquK1SAU)   
+
+
+FINECO
+
+---
+
+BGSO
+
+---
+
+TRADE REPUBLIC
 
 ---
 
