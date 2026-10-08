@@ -62,7 +62,6 @@ AS
 [abrdn Bloomberg All Commodity Strat K-1 Free ETF](https://www.google.com/finance/beta/quote/BCI:NYSEARCA)  
 `NYSEARCA:BCI`  
 
-
 ---
 
 # What are the most important market indexes for the Commodities sector? 
@@ -108,6 +107,47 @@ Grains: Wheat (Chicago and Kansas), Corn, and Soybeans.
 Softs: Coffee, Sugar, Cocoa, and Cotton.
 The index uses world production averages (WPA) to determine the weight of each commodity, ensuring it reflects the relative importance of these products to the global economy.
  While the futures contracts themselves are often traded on major exchanges such as the CME Group (CBOT) and ICE Futures U.S., they serve as proxies for the global supply and demand of these essential agricultural goods
+
+---
+
+## Which markets, sectors and, geographical areas does "Invesco Optimum Yield Diversified Commodity Strategy No K-1 ETF (PDBC)" cover?
+
+The `Invesco Optimum Yield Diversified Commodity Strategy No K-1 ETF (NASDAQ:PDBC)` 
+provides broad macroeconomic exposure through the following coverage:
+
+- Markets: It invests primarily in commodity futures contracts and other commodity-linked derivative instruments via a wholly-owned subsidiary domiciled in the Cayman Islands.
+
+- Sectors: It covers heavily traded commodities across four primary sectors:
+
+- Energy: Light sweet crude oil (WTI), Brent crude, heating oil, gasoline, and natural gas.
+- Industrial Metals: Aluminum, zinc, and copper.
+- Precious Metals: Gold and silver.
+- Agriculture: Corn, wheat, soybeans, and sugar.
+
+> Geographical Areas: 
+
+The fund is domiciled in the United States and offers broad international exposure, as the underlying physical commodities are priced on global markets and influenced by worldwide supply and demand dynamics.
+
+---
+
+## Which markets, sectors and, geographical areas does "Invesco DB Commodity Index Tracking Fund (DBC)" cover?
+
+The `Invesco DB Commodity Index Tracking Fund (NYSEARCA:DBC)` tracks the DBIQ Optimum Yield Diversified Commodity Index Excess Return.
+
+It covers the following areas:
+
+- Markets: It invests exclusively in the global commodity futures markets.
+- Sectors: It covers 14 specific commodities across 4 main sectors:
+- Energy: Light sweet crude oil (WTI), Brent crude, heating oil, RBOB gasoline, and natural gas.
+- Industrial Metals: Aluminum, zinc, and copper (Grade A).
+- Precious Metals: Gold and silver.
+- Agriculture: Corn, wheat, soybeans, and sugar.
+
+> Geographical Areas: 
+
+The fund provides broad global macroeconomic exposure, as the physical commodities it 
+tracks are traded on global exchanges and influenced by worldwide supply and demand.
+The fund itself is domiciled in the United States.
 
 ---
 
