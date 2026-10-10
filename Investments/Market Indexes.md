@@ -110,6 +110,98 @@ The index uses world production averages (WPA) to determine the weight of each c
 
 ---
 
+## Which markets, sectors and, geographical areas does "United States Oil Fund LP" cover?
+
+The `United States Oil Fund LP (NYSEARCA:USO)` covers the following markets, sectors, and geographical areas:
+
+Markets: It operates within the derivatives and commodities markets, primarily investing in listed, 
+regulated futures contracts, options, and forward contracts.
+
+Sectors: It provides targeted exposure to the energy and commodities sector, specifically focusing on petroleum-based 
+fossil fuels.
+
+Its primary objective is to track the spot price of `West Texas Intermediate (WTI) light, sweet crude oil`.
+
+It may also invest in other energy products such as diesel-heating oil, gasoline, and natural gas.
+
+> Geographical Areas: 
+
+Geographically, the fund is benchmarked against oil delivered to Cushing, Oklahoma, placing 
+its primary coverage on the United States (North American) energy market.
+
+---
+
+## Which markets, sectors and, geographical areas does "SPDR Gold Trust" cover?
+
+The `SPDR Gold Trust (NYSEARCA:GLD)` does not track corporations or specific industry sectors. 
+Instead, it is designed to offer investors a direct, secure way to access the global commodities market, 
+specifically tracking the spot price of gold bullion.
+
+Here is a breakdown of its coverage:
+
+Asset Class / Market: Precious Metals (Commodities).
+Sector: None. Unlike equities or sector ETFs, it holds 100% physical gold bars rather than shares of mining companies or related businesses.
+
+> Geographical Area: Global. 
+
+While the trust is listed on the NYSE Arca in the United States, its underlying value 
+is tied directly to the international spot price of gold, which reflects global supply and demand dynamics.
+
+
+---
+
+## Which markets, sectors and, geographical areas does "abrdn Bloomberg All Commodity Strat K-1 Free ETF" cover?
+
+
+The `abrdn Bloomberg All Commodity Strategy K-1 Free ETF (NYSEARCA:BCI)` tracks the Bloomberg Commodity Index Total Return.
+
+Its coverage spans across the following areas:
+
+1. Markets
+
+Commodities Derivatives Market: The ETF gains its primary exposure by investing in exchange-traded physical commodity futures contracts (typically near-term contracts) via a wholly-owned Cayman Islands subsidiary.
+Fixed Income Market: To collateralize the futures contracts, the fund actively invests in the short-term, investment-grade fixed income market, primarily utilizing 3-month U.S. Treasury Bills and government money market instruments.
+
+2. Sectors
+
+The fund provides broad-basket exposure divided into five major physical commodity sectors:
+
+- Energy: Includes assets like Brent crude, WTI crude, natural gas, and low-sulphur gasoil.
+- Agriculture / Softs / Grains: Includes crops like soybeans, corn, coffee, cotton, and sugar.
+- Precious Metals: Comprises gold and silver.
+- Industrial Metals: Includes base metals critical to industry and energy transition, such as copper, aluminum, nickel, zinc, and lead.
+- Livestock: Features live cattle and lean hogs.
+
+3. Geographical Areas
+
+Global Exposure: While the fund is domiciled in the United States and trades its collateral in U.S. government debt,
+the index it tracks chooses components based on global economic significance and weights them relative to world production values.
+Consequently, the underlying assets provide direct economic exposure to global supply and demand dynamics across international markets.
+
+
+---
+
+## Which markets, sectors and, geographical areas does "iShares GSCI Commodity Dynamic Roll Strategy ETF" cover?
+
+The `iShares GSCI Commodity Dynamic Roll Strategy ETF (NASDAQ:COMT)` covers the following markets, sectors, and geographical areas:
+
+Markets: It primarily invests in global commodity derivatives markets.
+Rather than holding physical assets, it utilizes futures contracts, options, and swap agreements.
+
+Sectors: It provides broad-basket exposure across major commodity sectors,
+including:
+
+- Energy: Brent crude oil, West Texas Intermediate (WTI) crude oil, heating oil, gas oil, natural gas, and unleaded gasoline.
+- Metals: Industrial and precious metals such as aluminum, copper, lead, nickel, zinc, gold, and silver.
+- Agriculture & Livestock: Corn, soybeans, wheat, cocoa, coffee, cotton, sugar, feeder cattle, live cattle, and lean hogs.
+
+> Geographical Areas: 
+The fund is domiciled in the United States, but its target exposures are global.
+The underlying index selects futures contracts based on worldwide production levels and global market liquidity.
+
+
+---
+
 ## Which markets, sectors and, geographical areas does "Invesco Optimum Yield Diversified Commodity Strategy No K-1 ETF (PDBC)" cover?
 
 The `Invesco Optimum Yield Diversified Commodity Strategy No K-1 ETF (NASDAQ:PDBC)` 
