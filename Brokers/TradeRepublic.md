@@ -1,3 +1,67 @@
+
+# Is there a limit to the number of time I can stop or change the amount of a PAC on Trade Republic?
+
+No, there is no limit to the number of times you can stop, pause, or change the amount of a savings plan 
+(PAC - Piano di Accumulo) on Trade Republic. 
+
+[1] (https://support.traderepublic.com/it-it/911-Come-posso-creare-un-piano-di-risparmio), 
+[2] (https://support.traderepublic.com/it-it/760-Cosa-sono-i-piani-di-accumulo)
+
+You retain full flexibility over your investments, allowing you to modify your strategy as your 
+financial situation changes. 
+
+[1] (https://support.traderepublic.com/en-si/760-What-are-savings-plans), 
+[2] (https://support.traderepublic.com/it-it/911-Come-posso-creare-un-piano-di-risparmio)
+
+## Key Rules & Flexibility Rules
+
+- Completely free updates: 
+Adjusting the amount, frequency, or asset involves zero fees. 
+
+[1] (https://support.traderepublic.com/it-it/911-Come-posso-creare-un-piano-di-risparmio), 
+[2] (https://support.traderepublic.com/it-it/760-Cosa-sono-i-piani-di-accumulo)
+
+- Unlimited cancellations: 
+Delete and restart a plan whenever you want. 
+
+[1] (https://support.traderepublic.com/it-it/761-Come-posso-interrompere-un-piano-di-accumulo), 
+[2] (https://support.traderepublic.com/it-it/911-Come-posso-creare-un-piano-di-risparmio)
+
+- No lock-in periods: 
+Your accumulated fractional shares remain safely in your custody even if you stop the plan. 
+
+[1] (https://support.traderepublic.com/en-si/760-What-are-savings-plans), 
+[2] (https://support.traderepublic.com/it-it/761-Come-posso-interrompere-un-piano-di-accumulo)
+
+- Automatic insufficient fund handling: 
+If your cash balance is empty on execution day, Trade Republic simply skips that month's deposit 
+without penalizing or charging you. 
+
+[1] (https://support.traderepublic.com/en-si/910-Cosa-succede-se-nel-conto-di-transito-non-ci-sono-fondi-sufficienti-per-eseguire-il-piano-di-investimento)
+
+## How to Make Changes in the App
+
+1. Open the app and navigate to Wealth (or Investments). 
+
+[1] (https://support.traderepublic.com/it-it/890-Quando-viene-eseguito-il-piano-di-risparmio), 
+[2] (https://support.traderepublic.com/en-si/760-What-are-savings-plans)
+
+2. Tap Orders & Insights and select your active Savings Plan. 
+
+[1] (https://support.traderepublic.com/it-it/890-Quando-viene-eseguito-il-piano-di-risparmio), 
+[2] (https://support.traderepublic.com/it-it/911-Come-posso-creare-un-piano-di-risparmio)
+
+3. Select the specific asset plan you want to modify. 
+
+[1] (https://support.traderepublic.com/it-it/761-Come-posso-interrompere-un-piano-di-accumulo)
+
+4. Tap Change to adjust the execution amount/frequency, or tap Delete to stop it entirely. 
+
+[1] (https://support.traderepublic.com/it-it/761-Come-posso-interrompere-un-piano-di-accumulo), 
+[2] (https://support.traderepublic.com/it-it/911-Come-posso-creare-un-piano-di-risparmio)
+
+---
+
 # How do pac work on trade republic?
 
 [How to Set Up an AUTOMATIC FREE Savings Plan on TRADE REPUBLIC 📈 (ETFs, STOCKS, or CRYPTO) simodefa](https://www.youtube.com/watch?v=_F5sqiB_2hE)  
