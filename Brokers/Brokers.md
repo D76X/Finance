@@ -13,7 +13,7 @@ FINECO
 
 ---
 
-BGSO
+BG SAXO
 
 ---
 

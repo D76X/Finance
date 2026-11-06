@@ -40,38 +40,5 @@ function insertClosePrice() {
   if (!foundMarker) {
     Logger.log(`Marker "${marker}" was not found in sheet "${sheet.getName()}".`);
   }
-}
-
- /*
-  const sheet = SpreadsheetApp.getActiveSpreadsheet().getActiveSheet();
-  const marker = "LAST-CLOSE-PRICE";
-  const maxLength = 1000;
-
-  // Get all values in Column A
-  const range = sheet.getRange("A:A");
-  const values = range.getValues();
-  
-  // Search for the marker in Column A limited to the first maxLength cells
-  for (let i = 0; i < maxLength; i++) {
-    if (values[i][0] === marker) {  
-
-      // 1-based index of the marker row before insertion
-      const rowIndex = i + 1; 
-
-      // Insert a blank row before the marker    
-      sheet.insertRowBefore(rowIndex);
-      Logger.log(`Inserted a new row ${rowIndex}`);
-
-      // The marker row shifted down to rowIndex + 1. 
-      // Copy the marker row to the new blank row at rowIndex.
-      const sourceRow = sheet.getRange(rowIndex + 1, 1, 1, sheet.getLastColumn());
-      const destinationRow = sheet.getRange(rowIndex, 1);
-      
-      sourceRow.copyTo(destinationRow);
-
-      return;
-    }
-  }
-  */ 
-
+} 
  
