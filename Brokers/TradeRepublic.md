@@ -1,4 +1,32 @@
 
+# Are PAC available on all ETF on Trade Republic?
+
+No, a PAC (Piano di Accumulo del Capitale, or savings plan) is not available on every 
+single ETF on Trade Republic. 
+
+[1] (https://extraetf.com/it/pac-etf/offerta-pac-etf-trade-republic)
+
+- Available Selection: 
+Trade Republic offers over 2,000 to 2,500 ETFs eligible for a PAC 
+(many of which have €0 execution fees), out of the total tradeable instruments 
+on the platform. 
+
+[1] (https://www.finanzapp.io/blog-ita/pac-etf-250-euro-al-mese), 
+[2] (https://www.finanzapp.io/blog-ita/migliori-etf-pac-italia-2026), 
+[3] (https://extraetf.com/it/pac-etf/offerta-pac-etf-trade-republic)
+
+- Not Universal: 
+While a massive range of popular equity, bond, commodity, and real estate ETFs 
+support automated savings plans, niche or newly listed ETFs might only be available 
+for single-order trading or not supported for periodic PAC investments.
+
+You can check specific ETF eligibility directly inside the app under the `Security/Investment` 
+tab or via the justETF Trade Republic Directory. 
+
+[1] (https://www.justetf.com/it/academy/trade-republic-piano-di-accumulo.html)
+
+---
+
 # Is there a limit to the number of time I can stop or change the amount of a PAC on Trade Republic?
 
 No, there is no limit to the number of times you can stop, pause, or change the amount of a savings plan 
