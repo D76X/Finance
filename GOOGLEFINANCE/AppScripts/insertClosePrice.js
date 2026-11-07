@@ -64,6 +64,14 @@ function insertClosePrice() {
       const destFormulaCell = sheet.getRange(rowIndex, 4);       // D(rowIndex)
       sourceFormulaCell.copyTo(destFormulaCell);
 
+      // --- Find and log LAST-TICKER location ---
+      const tickerCell = sheet.createTextFinder(makerLastTicker).matchEntireCell(true).findNext();
+      if (tickerCell) {
+        Logger.log(`Found "${makerLastTicker}" at A1 Notation: ${tickerCell.getA1Notation()} (Row: ${tickerCell.getRow()}, Column: ${tickerCell.getColumn()})`);
+      } else {
+        Logger.log(`Marker "${makerLastTicker}" was not found in sheet "${sheet.getName()}".`);
+      }
+
       SpreadsheetApp.flush(); // Ensure changes are immediately committed
       return;
     }
