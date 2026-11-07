@@ -6,6 +6,7 @@
 ## VIDEO
 
 [Trasferire Azioni e ETF su TradeRepublic: Ecco Come Fare! Manuel Gentile](https://www.youtube.com/watch?v=QQtZcVAWp50)  
+
 [Support 24/7: Call and Chat Get support from real humans via live chat or phone, 24/7, directly in your app.](https://www.youtube.com/watch?v=QQtZcVAWp50)  
 
 ---

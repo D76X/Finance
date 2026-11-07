@@ -58,6 +58,11 @@ function insertClosePrice() {
         newDateCell.setFormula(`=C${rowIndex + 1}+1`);
       }
 
+      // Copy formula directly using copyTo() - relative references adjust automatically!
+      const sourceFormulaCell = sheet.getRange(rowIndex+1, 4);      // D(rowIndex + 1)
+      const destFormulaCell = sheet.getRange(rowIndex, 4);       // D(rowIndex)
+      sourceFormulaCell.copyTo(destFormulaCell);
+
       SpreadsheetApp.flush(); // Ensure changes are immediately committed
       return;
     }
