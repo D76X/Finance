@@ -35,16 +35,12 @@ function insertClosePrice() {
       // Clear the marker value from the old cell (Row: rowIndex + 1, Column: 1)
       sheet.getRange(rowIndex + 1, 1).clearContent();
       
-      // Increment the value in Column B at rowIndex + 1 by 1
-      const cellB = sheet.getRange(rowIndex + 1, 2);
-      const valB = cellB.getValue();
-      const numericVal = Number(valB);
+      // Clear the marker value from the old cell (Row: rowIndex + 1, Column: 1)
+      const oldMarkerCell = sheet.getRange(rowIndex + 1, 1);
+      oldMarkerCell.clearContent();
       
-      if (!isNaN(numericVal) && valB !== "") {
-        cellB.setValue(numericVal + 1);
-      } else {
-        cellB.setValue(1); // Sets to 1 if the cell was previously empty
-      }
+      // Insert the formula referencing Column B of that same row (e.g., =B12)
+      oldMarkerCell.setFormula(`=B${rowIndex + 1}`);
       
       SpreadsheetApp.flush(); // Ensure changes are immediately committed
       return;
