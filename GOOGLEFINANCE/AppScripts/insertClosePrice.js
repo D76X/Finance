@@ -2,7 +2,8 @@ function insertClosePrice() {
   
   const ss = SpreadsheetApp.getActiveSpreadsheet();
   const tabName = "Plan-2026-2027";
-  const marker = "LAST-CLOSE-PRICE";
+  const markerLastClosePrice = "LAST-CLOSE-PRICE";
+  const makerLastTicker = "LAST-TICKER";
 
   // Target the specific tab by name to ensure it runs on the right sheet
   const sheet = ss.getSheetByName(tabName) || ss.getActiveSheet();  
@@ -11,31 +12,31 @@ function insertClosePrice() {
   const range = sheet.getRange("A:A");
   const values = range.getValues();
   
-  let foundMarker = false;
+  let foundmarkerLastClosePrice = false;
   
   // Search through populated rows
   for (let i = 0; i < values.length; i++) {
     
     const cellValue = String(values[i][0]).trim();
     
-    if (cellValue === marker) {
-      foundMarker = true;
+    if (cellValue === markerLastClosePrice) {
+      foundmarkerLastClosePrice = true;
       const rowIndex = i + 1; // 1-based index
       
-      // Insert a blank row before the marker row
+      // Insert a blank row before the markerLastClosePrice row
       sheet.insertRowBefore(rowIndex);
       Logger.log(`Inserted a new row at row ${rowIndex}`);
       
-      // The original marker row has now moved to rowIndex + 1.
+      // The original markerLastClosePrice row has now moved to rowIndex + 1.
       // Copy only the first 3 columns (A:C) from rowIndex + 1 to the new row at rowIndex:
       const sourceRow = sheet.getRange(rowIndex + 1, 1, 1, 3);
       const destinationRow = sheet.getRange(rowIndex, 1);
       sourceRow.copyTo(destinationRow);
       
-      // Clear the marker value from the old cell (Row: rowIndex + 1, Column: 1)
+      // Clear the markerLastClosePrice value from the old cell (Row: rowIndex + 1, Column: 1)
       sheet.getRange(rowIndex + 1, 1).clearContent();
 
-      // Clear the marker value from the old cell (Row: rowIndex + 1, Column: 1)
+      // Clear the markerLastClosePrice value from the old cell (Row: rowIndex + 1, Column: 1)
       const oldMarkerCell = sheet.getRange(rowIndex + 1, 1);
       oldMarkerCell.clearContent();
       
@@ -68,7 +69,7 @@ function insertClosePrice() {
     }
   }
   
-  if (!foundMarker) {
-    Logger.log(`Marker "${marker}" was not found in sheet "${sheet.getName()}".`);
+  if (!foundmarkerLastClosePrice) {
+    Logger.log(`markerLastClosePrice "${markerLastClosePrice}" was not found in sheet "${sheet.getName()}".`);
   }
 }
