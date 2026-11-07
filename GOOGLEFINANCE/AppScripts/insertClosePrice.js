@@ -32,6 +32,9 @@ function insertClosePrice() {
       const destinationRow = sheet.getRange(rowIndex, 1);
       sourceRow.copyTo(destinationRow);
       
+      // Clear the marker value from the old cell (Row: rowIndex + 1, Column: 1)
+      sheet.getRange(rowIndex + 1, 1).clearContent();
+      
       SpreadsheetApp.flush(); // Ensure changes are immediately committed
       return;
     }
