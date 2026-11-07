@@ -27,8 +27,8 @@ function insertClosePrice() {
       Logger.log(`Inserted a new row at row ${rowIndex}`);
       
       // The original marker row has now moved to rowIndex + 1.
-      // Copy row formatting/formulas from rowIndex + 1 to the new row at rowIndex:
-      const sourceRow = sheet.getRange(rowIndex + 1, 1, 1, sheet.getLastColumn());
+      // Copy only the first 3 columns (A:C) from rowIndex + 1 to the new row at rowIndex:
+      const sourceRow = sheet.getRange(rowIndex + 1, 1, 1, 3);
       const destinationRow = sheet.getRange(rowIndex, 1);
       sourceRow.copyTo(destinationRow);
       
@@ -40,5 +40,4 @@ function insertClosePrice() {
   if (!foundMarker) {
     Logger.log(`Marker "${marker}" was not found in sheet "${sheet.getName()}".`);
   }
-} 
- 
+}
