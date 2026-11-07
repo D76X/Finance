@@ -31,17 +31,33 @@ function insertClosePrice() {
       const sourceRow = sheet.getRange(rowIndex + 1, 1, 1, 3);
       const destinationRow = sheet.getRange(rowIndex, 1);
       sourceRow.copyTo(destinationRow);
-
+      
       // Clear the marker value from the old cell (Row: rowIndex + 1, Column: 1)
       sheet.getRange(rowIndex + 1, 1).clearContent();
-      
+
       // Clear the marker value from the old cell (Row: rowIndex + 1, Column: 1)
       const oldMarkerCell = sheet.getRange(rowIndex + 1, 1);
       oldMarkerCell.clearContent();
       
-      // Insert the formula referencing Column B of that same row (e.g., =B12)
-      oldMarkerCell.setFormula(`=B${rowIndex + 1}`);
-      
+      // Insert the formula `=($BrowIndex)+1`into the cell BrowIndex+1
+      // this will shift all the ordinals by 1 starting from the value 0
+      const oldOrdinalCell = sheet.getRange(rowIndex + 1, 2);           
+      oldOrdinalCell.setFormula(`=B${rowIndex}+1`);
+
+      // Increment the date in Column C of the new row (rowIndex) by 1 day
+      const newDateCell = sheet.getRange(rowIndex, 3); // Column C is index 3
+      const currentDate = newDateCell.getValue();
+
+      if (currentDate instanceof Date) {
+        // Add 1 day (24 hours) to the existing date
+        const nextDate = new Date(currentDate);
+        nextDate.setDate(nextDate.getDate() + 1);
+        newDateCell.setValue(nextDate);
+      } else if (currentDate) {
+        // Fallback for non-Date objects (e.g., date formatted as a formula or text)
+        newDateCell.setFormula(`=C${rowIndex + 1}+1`);
+      }
+
       SpreadsheetApp.flush(); // Ensure changes are immediately committed
       return;
     }
