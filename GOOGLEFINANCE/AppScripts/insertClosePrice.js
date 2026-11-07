@@ -31,9 +31,20 @@ function insertClosePrice() {
       const sourceRow = sheet.getRange(rowIndex + 1, 1, 1, 3);
       const destinationRow = sheet.getRange(rowIndex, 1);
       sourceRow.copyTo(destinationRow);
-      
+
       // Clear the marker value from the old cell (Row: rowIndex + 1, Column: 1)
       sheet.getRange(rowIndex + 1, 1).clearContent();
+      
+      // Increment the value in Column B at rowIndex + 1 by 1
+      const cellB = sheet.getRange(rowIndex + 1, 2);
+      const valB = cellB.getValue();
+      const numericVal = Number(valB);
+      
+      if (!isNaN(numericVal) && valB !== "") {
+        cellB.setValue(numericVal + 1);
+      } else {
+        cellB.setValue(1); // Sets to 1 if the cell was previously empty
+      }
       
       SpreadsheetApp.flush(); // Ensure changes are immediately committed
       return;
