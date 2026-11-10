@@ -3,7 +3,7 @@ function insertClosePrice() {
   const ss = SpreadsheetApp.getActiveSpreadsheet();
   const tabName = "Plan-2026-2027";
   const markerLastClosePrice = "LAST-CLOSE-PRICE";
-  const makerLastTicker = "LAST-TICKER";
+  const markerLastTicker = "LAST-TICKER";
 
   // Target the specific tab by name to ensure it runs on the right sheet
   const sheet = ss.getSheetByName(tabName) || ss.getActiveSheet();  
@@ -12,6 +12,14 @@ function insertClosePrice() {
   const range = sheet.getRange("A:A");
   const values = range.getValues();
   
+  // --- Find and log LAST-TICKER location ---
+  const markerLastTickerCell = sheet.createTextFinder(markerLastTicker).matchEntireCell(true).findNext();
+  if (markerLastTickerCell) {
+    Logger.log(`Found "${markerLastTicker}" at A1 Notation: ${markerLastTickerCell.getA1Notation()} (Row: ${markerLastTickerCell.getRow()}, Column: ${markerLastTickerCell.getColumn()})`);
+  } else {
+    Logger.log(`Marker "${markerLastTicker}" was not found in sheet "${sheet.getName()}".`);
+  }
+
   let foundmarkerLastClosePrice = false;
   
   // Search through populated rows
@@ -62,15 +70,7 @@ function insertClosePrice() {
       // Copy formula directly using copyTo() - relative references adjust automatically!
       const sourceFormulaCell = sheet.getRange(rowIndex+1, 4);      // D(rowIndex + 1)
       const destFormulaCell = sheet.getRange(rowIndex, 4);       // D(rowIndex)
-      sourceFormulaCell.copyTo(destFormulaCell);
-
-      // --- Find and log LAST-TICKER location ---
-      const tickerCell = sheet.createTextFinder(makerLastTicker).matchEntireCell(true).findNext();
-      if (tickerCell) {
-        Logger.log(`Found "${makerLastTicker}" at A1 Notation: ${tickerCell.getA1Notation()} (Row: ${tickerCell.getRow()}, Column: ${tickerCell.getColumn()})`);
-      } else {
-        Logger.log(`Marker "${makerLastTicker}" was not found in sheet "${sheet.getName()}".`);
-      }
+      sourceFormulaCell.copyTo(destFormulaCell);      
 
       SpreadsheetApp.flush(); // Ensure changes are immediately committed
       return;
