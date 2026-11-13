@@ -9,6 +9,8 @@
 
 [Support 24/7: Call and Chat Get support from real humans via live chat or phone, 24/7, directly in your app.](https://www.youtube.com/watch?v=QQtZcVAWp50)  
 
+[PAC Trade Republic con Best Price: come funziona? Elia Caneppele - Investitore Pigro](https://www.youtube.com/watch?v=u_Q_XXWclb8)  
+
 ---
 
 Yes, you can transfer your ETFs from Trading 212 to Trade Republic. 
